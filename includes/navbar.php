@@ -35,10 +35,10 @@
                     }
                     ?>
                      <li>
-                        <a href="../admin/login.php">Login</a>
+                        <a href="admin/login.php">Login</a>
                     </li>
                     <li>
-                        <a href="../admin/index.php">Admin</a>
+                        <a href="admin/index.php">Admin</a>
                     </li>
                     <?php 
                         if(isset($_SESSION['role'])){

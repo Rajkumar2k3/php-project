@@ -1,0 +1,2090 @@
+@media screen and (width: 1600px) {
+
+.covid-landing-page {
+  margin-top: 8em;
+  padding-bottom: 8em!important;
+}
+}
+
+/* @media screen and (max-width: 2000px) and (min-width: 1367px) { */
+
+  /* .os-hd-fix {
+    top: 9em;
+    width: 60%;
+  }
+   
+  
+  .who-is-title {
+  margin-left: 0em!important;
+  text-align: center;
+  } */
+
+  /* .child-inclusion-padding {
+    padding-top: 50px!important;
+  }
+
+  .who-is-title {
+    margin-left: 0em!important;
+    text-align: center;
+  } */
+@media screen and (max-width: 1080px) and (min-width: 1000px) { 
+.who-line-height p {
+  line-height: 1.1!important;
+  width: 350px!important;
+}
+
+}
+  
+
+
+  @media screen and (max-width: 2000px) and (min-width: 1900px) {
+    .padding-top-em {
+    padding-top: 5em!important;
+    }
+    .BC-news{
+      margin-left: 4.5em!important;
+    }
+    .user-pic{
+      width: 100%!important;
+    }
+  }
+
+@media screen and (max-width: 1910px) and (min-width: 1720px) {
+ .BC-news{
+      margin-left: 4.5em!important;
+    }
+.total-employees-div {
+  padding-top: 1.5em!important;
+}
+.covid-padding {
+  padding-top: 20px!important;
+  padding-bottom: 40px!important;
+}
+.home-page-banner {
+  height: 530px!important;
+}
+
+}
+
+
+@media screen and (min-width: 1920px) { 
+
+.total-employees-div {
+  padding-top: 1.5em!important;
+}
+  .covid-padding {
+  padding-top: 20px!important;
+  padding-bottom: 40px!important;
+}
+.home-page-banner {
+  height: 515px!important ;
+}
+.img-res-banner {
+ padding-top: 9em!important;
+ transform: scale(1.5);
+}
+
+}
+
+@media screen and (min-width: 1366px) { 
+
+  .scheme-landing {
+    padding-top: 2em!important;
+    padding-bottom:  2em!important;
+  }
+  .total-employees-div {
+  padding-top: 1.5em!important;
+}
+  .covid-padding {
+  padding-top: 20px!important;
+  padding-bottom: 60px!important;
+}
+.img-res-banner {
+ width: 100%;
+ padding-top: 9em!important;
+ transform: scale(1.2);
+}
+}
+
+@media screen and (max-width: 1700px) and (min-width: 1599px) {
+ .council-bc-responsive{
+  padding-left: 6.2em!important;
+}
+  .total-employees-div {
+  padding-top: 1.5em!important;
+}
+ .feedback-bc{
+    margin-left: 10.8em!important;
+  }
+.img-res-banner {
+  padding-top: 5em;
+}
+
+
+.common-image-1{
+  left: 30em!important;
+}
+  .GCC-banner-image{
+    top: 4em!important;
+    left: 32em!important;
+  }
+.os-hd-fix {
+  top: 9em;
+  width: 60%;
+}
+ .who-is-title {
+margin-left: 0em!important;
+text-align: center;
+}
+.usefull-link-heading {
+  text-align: center;
+}
+.scheme-banner-correction {
+  top: 1em!important;
+}
+.swach-align-title {
+  text-align: center;
+}
+.Swach-bharat .swach-align-title{
+padding-left: 0em!important;
+}
+.container-align-width {
+  margin-left: -10px!important;
+}
+
+.Swach-bharat  .usefull-link-heading  {
+  padding-left: 1em!important;
+}
+.Swach-bharat  .info-title  {
+  padding-left: 1em!important;
+}
+.info-title{
+  text-align: center;
+}
+.about-page-banner {
+  top: 8em!important;
+}
+.zone-container {
+  margin-left: 0px!important;
+}
+
+.tender-bc-left {
+  margin-left: 45px;
+}
+.depart-page-banner-height {
+  height: 520px!important;
+}
+.dept-page-banner-heading {
+    padding-top: 15.2em!important;
+    padding-left: 1em!important;
+}
+.council-bc {
+  margin-left: 54px;
+}
+.site-mapbc {
+  padding-left: 0em!important;
+  margin-left: -12px!important;
+}
+.site-map-list .sitemap-title::before {
+  left: 3% !important;
+}
+.user-pic {
+  width: 90%!important;
+}
+
+
+}
+
+@media screen and (max-width: 1550px) and (min-width: 1367px) {
+ .council-bc-responsive{
+  padding-left: 4.5em!important;
+}
+  .total-employees-div {
+  padding-top: 1.5em!important;
+}
+.scheme-landing {
+    padding-top: 2em!important;
+    padding-bottom:  2em!important;
+  }
+
+
+/*  .img-res-banner {
+  padding-top: 5em;
+}*/
+
+.os-hd-fix {
+  top: 9em;
+  width: 60%;
+}
+ .who-is-title {
+margin-left: 0em!important;
+text-align: center;
+}
+.usefull-link-heading {
+  text-align: center;
+}
+.scheme-banner-correction {
+  top: 1em!important;
+}
+.swach-align-title {
+  text-align: center;
+}
+.Swach-bharat .swach-align-title{
+padding-left: 0em!important;
+}
+.container-align-width {
+  margin-left: -10px!important;
+}
+
+.Swach-bharat  .usefull-link-heading  {
+  padding-left: 1em!important;
+}
+.Swach-bharat  .info-title  {
+  padding-left: 1em!important;
+}
+.info-title{
+  text-align: center;
+}
+.about-page-banner {
+  top: 8em!important;
+}
+.zone-container {
+  margin-left: 0px!important;
+}
+
+.tender-bc-left {
+  margin-left: 45px;
+}
+.depart-page-banner-height {
+  height: 520px!important;
+}
+.dept-page-banner-heading {
+    padding-top: 15.2em!important;
+    padding-left: 1em!important;
+}
+.council-bc {
+  margin-left: 54px;
+}
+.site-mapbc {
+  padding-left: 0em!important;
+  margin-left: -12px!important;
+}
+.site-map-list .sitemap-title::before {
+  left: 3% !important;
+}
+.user-pic {
+  width: 90%!important;
+}
+
+
+}
+
+
+/* nav bar */
+@media screen and (max-width: 374px) {
+  .navbar-container {
+    width: 100%;
+    padding: 0 10px;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 399px) {
+  .navbar-container {
+    width: 100%;
+    padding: 0 10px;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 480px) {
+
+  .navbar-container {
+    width: 100%;
+    padding: 0 10px;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 699px) {
+  
+  .home-banner-image-duplicate{
+    top: 20em;
+  }
+  .home-banner-content {
+    display: none;
+  }
+  .img-res-banner {
+    width: 100%;
+    padding-top: 5em!important;
+
+} 
+  .navbar-container {
+    width: 90%;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 780px) {
+  .capache{
+    margin-right: 70px!important;
+  }
+  .regcaptchNo-tab{
+    padding-right:10em!important;
+  }
+  .img-res-banner {
+ width: 100%;
+ padding-top: 12em!important;
+
+}
+  .navbar-container {
+    width: 90%;
+  }
+}
+
+@media screen and (min-width: 781px) and (max-width: 1199px) {
+  .home-banner-image-duplicate {
+    top: -1em!important;
+  }
+  
+  .tab-fix{
+    padding-left: 40px!important;
+    padding-right: 40px!important;
+  }
+  .img-res-banner {
+ width: 100%;
+ padding-top: 9em!important;
+
+}
+  .navbar-container {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1475px) {
+ .list-hd-fix li:before {
+  left: 5%!important;
+ }
+/* .council-bc-responsive{
+  padding-left: 6.8em!important;
+}*/
+ .BC-news{
+    margin-left: 6.3em!important;
+  }
+  .scheme-landing {
+    padding-top: 5em!important;
+    padding-bottom:  5em!important;
+  }
+  .scl_phone1 {
+  width: 66%;
+  }
+  .scl_phone2{
+  width: 66%;
+  }
+  .feedback-bc{
+    margin-left: 7.5em!important;
+  }
+  .img-res-banner {
+ width: 90%;
+ padding-top: 9.7em!important;
+
+}
+  .navbar-container {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 1476px) {
+  .navbar-container {
+    width: 1125px;
+  }
+}
+
+/* navbar- left and right */
+
+@media screen and (max-width: 374px) {
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    display: flex;
+   /* width: 35%;*/
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 399px) {
+  .padding-top-10em {
+    padding-top: 10em;  
+  }
+  .iphone-xs-14{
+  padding-top: 6em!important;
+}
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 480px) {
+
+    .img-res-banner {
+  width: 100%;
+  padding-top: 0em!important;
+}
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    display: flex;
+    width: 28%;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 699px) {
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 780px) {
+  .educational-container-fixes{
+    padding-left: 20px;
+  }
+  .volunteer-page-bc {
+  margin-left: 0.3em!important;
+}
+.council-page .title-breadcrumb {
+  padding-left: 1.5em!important;
+}
+.volunteer-country-align {
+  margin-left: 10px;
+}
+.volunteer-country-align2 {
+  margin-left: -10px;
+}
+  .total-employees-div {
+  padding-top: 1.5em!important;
+}
+  .location-tree-planet{
+    margin: 5px!important;
+  }
+  .form-hd-width {
+    margin-left: 0px!important;    
+  }
+  .margin-align-left{
+    margin-left: 0px!important;
+  }
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    display: flex;
+    width: 10%;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 781px) and (max-width: 1199px) {
+  .council-bc-responsive{
+  padding-left: 6em!important;
+}
+  .volunteer-page-bc {
+  margin-left: 0.3em!important;
+}
+.council-page .title-breadcrumb {
+  padding-left: 2.5em!important;
+}
+  .total-employees-div {
+  padding-top: 1.5em!important;
+}
+  .tree-plant-container{
+    width: 100%;
+  }
+   .feedback-title-bc {
+    padding-left: 0em!important;
+   }
+   .feedback-bc {
+    margin-left: 3.3em!important;
+   }
+  .form-fix-container{
+    width: 100%!important;
+  }
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    display: flex;
+    width: 15%;
+    justify-content: space-between;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .navbar-container-left {
+    width: auto;
+  }
+  .navbar-container-right {
+    width: 83%;
+  }
+}
+
+/* @media screen and (min-width: 781px) and (max-width: 1100px) {
+  .navbar-collapse {
+    display: none !important;
+  }
+
+  .navbar-toggler {
+    display: block !important;
+  }
+} */
+
+@media screen and (min-width: 700px) and (max-width: 780px) {
+  .covid-vaccine {
+    margin-left: 4em !important;
+  }
+  .mobile-tamil-font {
+    display: block;
+  }
+  .mobile-thiruvalluvar-img {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 781px) {
+  .mobile-tamil-font {
+    display: none;
+  }
+  .mobile-thiruvalluvar-img {
+    display: none;
+  }
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mobile-thiruvalluvar-img {
+  width: 45px;
+  float: left;
+  /* margin-left: 2em; */
+  margin-right: auto;
+  margin-right: 0;
+  /* filter: invert(1); */
+}
+
+.mobile-tamil-font {
+  line-height: 1.5;
+  font-weight: 600;
+  color: #ffffffc9;
+  font-size: 13px;
+  margin-top: 1em;
+  /* margin-left: -30px; */
+  /* margin-right: auto; */
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1365px) {
+  .margin-align-left {
+    margin-left: 0px!important;
+  }
+  .form-fix-container {
+    width: 85%!important;
+  }
+  .gsc-input-box {
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+  }
+  .news-letter-mobile {
+    display: none!important;
+  }
+  .chennai-school-form-2 {
+    padding-left: 25px;
+  }
+  .school-form-year select {
+    margin-left: 0px;
+  }
+  .school-form-age select {
+    margin-left: -17px;
+  }
+  .position-link-breadcrumb {
+    position: relative;
+    z-index: 1020;
+  }
+  #profession-tax-calculator-from .no-of-employee {
+    height: 70px;
+  }
+  #profession-tax-calculator-from input[type=radio] {
+    margin-left: 0px;
+  }
+  #profession-tax-calculator-from .line-padding-employee {
+    padding-top: 15px;
+  }
+  #profession-tax-calculator-from .line-padding-common {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  #basic-form-cerificate #txtCaptcha_t {
+    padding-left: 16em;
+  }
+  #basic-form-cerificate #regcaptchNo-error {
+    position: absolute!important;
+    top: 2em!important;
+  }
+  #basic-form-cerificate #regcaptchNo-error {
+    position: absolute;
+    top: 2em;
+  }
+  #basic-form-cerificate #txtCaptcha_t {
+    padding-left: 5em!important;
+  }
+  #basic-form-cerificate .regcaptchNo-text {
+    padding-left: 15em!important;
+  }
+  #basic-form-cerificate #gender-error {
+    position: absolute;
+    top: 5em;
+    left: 1em;
+  }
+  .page-profesional-tax {
+    position: relative;
+    z-index: 999;
+  }
+  #birth-death-cerificate-form #gender-error {
+    position: absolute;
+    top: 5em;
+    left: 3em;
+  }
+  #birth-death-cerificate-form #regcaptchNo-error {
+    position: absolute;
+    top: 2em;
+  }
+  #child-inclusion #country-code-error {
+    position: absolute;
+    top: 5em;
+  }
+  #child-inclusion #mobile-num-error {
+    position: absolute;
+    left: 8em;
+    top: 5em;
+  }
+  #feedback-form #Country-code-error {
+    position: absolute;
+    left: 1em;
+    top: 5.5em;
+  }
+  #feedback-form #mobile-num-error {
+    position: absolute;
+    left: 8em;
+    top: 5.5em;
+  }
+  #tree-planet-form label {
+    padding-left: 0px!important;
+  }
+  #tree-planet-form .tree-plant-field {
+    margin-left: 0px!important;
+  }
+  #tree-planet-form #country-code {
+    margin-left: 15px!important;
+  }
+  #tree-planet-form #register-number {
+    width: 97%!important;
+  }
+  #tree-planet-form .location {
+    margin-left: 0px!important;
+  }
+  #tree-planet-form #email {
+    margin-left: 0px!important;
+  }
+  .location-tree-planet h3 {
+    padding-left: 0px!important;
+  }
+  #child-inclusion .otp-column {
+    padding-top: 20px;
+  }
+  #feedback-form #Country-code-error {
+    position: absolute;
+  }
+  #birth-death-cerificate-form .place-birth-height {
+    height: 40px!important;
+  }
+  #birth-death-cerificate-form .place-birth-height {
+    height: 40px!important;
+  }
+  #birth-death-cerificate-form .regcaptchNo-text {
+    padding-left: 16em;
+  }
+  #profession-tax-calculator-from .form-control {
+    margin-left: 0px;
+  }
+  #profession-tax-calculator-from .total-tax-to-be-paid {
+    font-size: 14px !important;
+  }
+  #profession-tax-calculator-from .total-tax-to-be-paid {
+    padding-right: 50px!important;
+  }
+  #birth-death-cerificate-form .select-width-increase {
+    padding-right: 9px!important;
+  }
+  .rule-and-procedure-clone .health-list-heading:before {
+    left: 5% !important;
+  }
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1365px) {
+ .navbar-pic{
+  position: absolute;
+    left: -5%;
+ }
+  .news-letter-mobile {
+    display: none!important;
+  }
+  #birth-death-cerificate-form #regcaptchNo-error {
+    position: absolute!important;
+    top: 3em!important;
+  }
+  #birth-death-cerificate-form .place-birth-height {
+    height: 40px!important;
+  }
+  #birth-death-cerificate-form .place-birth-height {
+    height: 40px!important;
+  }
+  #birth-death-cerificate-form .regcaptchNo-text {
+    padding-left: 16em;
+  }
+  #profession-tax-calculator-from .form-control {
+    margin-left: 0px;
+  }
+  #profession-tax-calculator-from .total-tax-to-be-paid {
+    font-size: 14px !important;
+  }
+  #profession-tax-calculator-from .total-tax-to-be-paid {
+    padding-right: 50px!important;
+  }
+  .feedback-container {
+    padding-left: 25px;
+  }
+  .council-page .title-breadcrumb {
+    margin-bottom: -2px;
+    /* border-radius: 20px; */
+  }
+  .gcc-feedback .title-breadcrumb {
+    padding-left: 5.9em!important;
+  }
+  #feedback-form .mobile-num {
+    width: 68% !important;
+    /* margin-left: 10px; */
+  }
+  #feedback-form label {
+    padding-top: 25px !important;
+  }
+  textarea.form-control {
+    height: 129px !important;
+  }
+  .feedback-btn {
+    margin-left: 6.5em !important;
+    margin-top: 5em !important;
+  }
+  .feedback-note {
+    color: #858585c2 !important;
+  }
+  /* .container-width {
+     width: 76% !important;
+  } */
+  .council-page .title-breadcrumb {
+    padding-left: 4.5em !important;
+  }
+  .maxCard .right {
+    padding-right: 50px;
+  }
+  .latest-news p {
+    padding-right: 20px;
+  }
+  .whatsNew-box-line {
+    margin-bottom: 3em !important;
+  }
+  .maxCard .right {
+    padding-left: 70px !important;
+  }
+  /* .council-content li:before {
+    margin-left: 20px;
+  } */
+  .council-resolution {
+    margin-right: 30px;
+  }
+  .council-resolution table {
+    width: 100% !important;
+  }
+  .council-pdf {
+    padding-left: 6em !important;
+  }
+  .home-banner-click-here-btn a {
+    color: white !important;
+  }
+  .home-banner-click-here-btn a:hover {
+    color: black !important;
+    background-color: white;
+    text-decoration: none;
+  }
+  .zone-detail-heading {
+    margin-left: 5px;
+  }
+  /* .maxx-card {
+    width: 76.5% !important;
+  } */
+  .health-list-heading:before {
+    left: 7.5% !important;
+  }
+  .medical-width {
+    margin-left: 10.8em !important;
+  }
+  .park-container {
+    width: 76% !important;
+  }
+  .small-font-nav {
+    padding-left: 11em!important;
+  }
+  .small-nav-left {
+    margin-left: 2em!important;
+  }
+  .small-nav-padding {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .small-nav-font {
+    font-size: 12px!important;
+  }
+  .fontsize-mid {
+    font-size: 13px!important;
+  }
+  .fontsize-mid-nav {
+    font-size: 14px!important;
+  }
+  .fontsize-mid-pad {
+    padding-left: 7.5em !important;
+  }
+  .fontSize-li-pad {
+    margin-left: 0px !important;
+  }
+  .fontSize-li-padd {
+    margin-left: 0.90em !important;
+  }
+  .fontSize-thirukural {
+    margin-left: 5em !important;
+  }
+  .scroll-top {
+    top: 2rem !important;
+  }
+}
+
+@media screen and (max-width: 780px) and (min-width: 700px) {
+  .feedback-bc{
+    margin-left: 0em!important;
+    margin-bottom: 8px;
+  }
+  .feedback-btn-align {
+    text-align: center!important;
+  }
+  .BC-tender {
+    margin-left: 2.3em;
+  }
+  .tender-image {
+    position: fixed;
+    top: 12em !important;
+    width: 90% !important;
+    transform: scale(0.92);
+    left: 10em !important;
+  }
+  .news-letter-mobile {
+    display: none;
+  }
+  .tabcontent {
+    height: 5000px!important;
+  }
+  .tablinks {
+    font-size: 13px;
+  }
+  .depart-sidebar li {
+    padding-left: 13px;
+  }
+  .tender-ol {
+    margin-left: 30px;
+  }
+  .home-banner-image-duplicate {
+    position: relative !important;
+    top: 2em !important;
+    width: 95% !important;
+    /* transform: scale(0.92); */
+    left: 1em !important;
+  }
+  .GCC-about-CC {
+    margin-top: 50px !important;
+  }
+  .public-griv {
+    margin-top: -6.2em !important;
+  }
+  .tab-tile {
+    margin-top: -17px !important;
+  }
+  .tab-tile-1 {
+    margin-top: -25px !important;
+  }
+  .right-info-title {
+    padding-left: 7em !important;
+  }
+  .aboutGCC-tile1 {
+    margin-right: 0px;
+  }
+  .GCC-Tile {
+    margin-right: 50px !important;
+    margin-top: 10px !important;
+  }
+  .about-gcc-container {
+    width: 100% !important;
+    margin-top: 30px;
+  }
+  .back-btn-act {
+    text-align: right;
+    /* padding-right: 15em; */
+    padding-right: 2.75em;
+    padding-bottom: 5px;
+    color: #000;
+  }
+  /* .medical-service-page {
+    margin-top: 2em;
+  } */
+  .medical-service-page .zone-card .card h5 {
+    font-size: 0.687rem!important;
+  }
+  .location-tree h3 {
+    padding-left: 0px!important;
+  }
+  #tree-planet-form label {
+    padding-left: 0px!important;
+  }
+  #tree-planet-form .number {
+    margin-left: 0px!important;
+  }
+  #country-code {
+    margin-left: 15px!important;
+  }
+  #tree-planet-form #mobile-num {
+    width: 77%;
+  }
+  #tree-planet-form .location {
+    margin-left: 0px;
+    width: 92%;
+  }
+  #tree-planet-form #email {
+    margin-left: 0px;
+    width: 92%;
+  }
+  #tree-planet-form .email {
+    margin-left: 0px!important;
+    width: 92%;
+  }
+  .depart-sidebar {
+    display: none;
+  }
+  #Soid .special-work li:before {
+    left: -32px!important;
+  }
+  .scheme-banner-image {
+    position: absolute;
+    top: 4em;
+    width: 65%;
+    transform: scale(0.92);
+    padding-top: 5em;
+    left: 15em;
+  }
+  .swatch-img {
+    width: 95%;
+  }
+  .swatchh-img {
+    width: 95%;
+    padding-top: 8px;
+  }
+  .Swach-bharat h2 {
+    padding-left: 9em;
+  }
+  .moovalur-container {
+    width: 90% !important;
+  }
+  .park-BC {
+    margin-left: -10px !important;
+  }
+  .special-work ul {
+    padding-left: 0px!important;
+  }
+  #Soid .bullet-small h5 {
+    margin-left: 15px!important;
+  }
+  .solid-page {
+    width: 92%!important;
+  }
+  .solid-page-table {
+    margin-left: 30px!important;
+  }
+  #infrastructures .head-subline {
+    padding-left: 20px!important;
+  }
+  .head-subline {
+    padding-left: 31px!important;
+  }
+  .page-depart-services h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption li:before {
+    margin-top: 5px!important;
+  }
+  .history p {
+    padding-left: 10px!important;
+  }
+  .history h3 {
+    padding-left: 10px!important;
+  }
+  .bullet li:before {
+    width: 12px!important;
+    height: 12px !important;
+  }
+  .special-work li:not(:last-child):after {
+    display: none!important;
+  }
+  .special-work li:before {
+    position: absolute!important;
+    left: 15px!important;
+  }
+  .inside-head-subline {
+    padding-left: 20px;
+  }
+  #install p {
+    padding-left: 25px!important;
+  }
+  #knowledge .head-subline {
+    padding-left: 15px!important;
+  }
+  .teaching-img {
+    padding-left: 0px;
+  }
+  .teaching-img img {
+    width: 95%;
+  }
+  #ecrt .education-list {
+    padding-left: 20px!important;
+  }
+  #tab4 ul {
+    padding-left: 15px!important;
+  }
+  .mobile-view-list {
+    padding-left: 0px!important;
+  }
+  #activity .head-subline {
+    padding-left: 5px!important;
+  }
+  #knowledge h3 {
+    padding-left: 10px!important;
+  }
+  #dept-road h3 {
+    padding-left: 10px!important;
+  }
+  #dept-road .bullet-small h5 {
+    padding-left: 13px!important;
+  }
+  .mechanical-page-table {
+    margin-left: 5px!important;
+  }
+  .mechanical-engg .img-title img {
+    width: 85%!important;
+    padding-left: 10px!important;
+  }
+  .park-image img {
+    width: 95%!important;
+  }
+  .town-plan-page .list-paragraph {
+    padding-left: 30px!important;
+  }
+  .solid-waste-main .solid {
+    padding-left: 15px!important;
+  }
+  .solid-waste-main .special-work li:before {
+    margin-left: 20px!important;
+    left: -30px!important;
+  }
+  .solid-waste-main h5 {
+    padding-left: 30px!important;
+  }
+  .solid-waste-main .inside-head-subline {
+    padding-left: 5px!important;
+  }
+  .solid-waste-main .step-content {
+    padding-left: 3px!important;
+  }
+  /* .page-depart-services .maxCard {
+    width: 97%!important;
+  } */
+  .history p {
+    margin-right: 0!important;
+  }
+  .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  .Complaints .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  #special-work .content {
+    padding-left: 25px!important;
+  }
+  #special-work .bullet-small h5 {
+    padding-left: 20px!important;
+  }
+  .bullet-small h5 {
+    padding-left: 0px!important;
+  }
+  .Complaints li:before {
+    left: 4px!important;
+  }
+  .Consumption .maxCard h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption p {
+    padding-left: 30px!important;
+  }
+  .depart-img {
+    text-align: center;
+  }
+  .special-work li:before {
+    margin-left: 20px!important;
+  }
+  .special-work h5 {
+    padding-left: 0px!important;
+  }
+  .bullet-li p {
+    padding-left: 25px!important;
+  }
+  .health-table {
+    margin-left: 25px!important;
+  }
+  .health-page .health-table2 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table3 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table4 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .history h3 {
+    padding-left: 3px!important;
+  }
+  #primary-health-care {
+    padding-left: 5px!important;
+  }
+  .legal-cell h6 {
+    padding-left: 0px!important;
+  }
+  .legal-cell-page .legal-cell-table {
+    width: 95% !important;
+    margin-left: 0px!important;
+  }
+  .map-image {
+    width: 100%!important;
+    padding-left: 0px!important;
+  }
+  .page-breadcrumb {
+    margin: 0px!important
+  }
+  .container-widthh {
+    width: 100% !important;
+    padding-right: 0px!important;
+  }
+  #birth-death-cerificate-form #dob-month, #dob-day, #dob-year {
+    width: 90%!important;
+  }
+  #birth-death-cerificate-form .year {
+    margin-left: 10px!important;
+  }
+  #birth-death-cerificate-form .year {
+    margin-left: 5px!important;
+  }
+  #birth-death-cerificate-form .year {
+    margin-left: -16px!important;
+  }
+  /*#birth-death-cerificate-form .child-name {
+    margin-left: -14px!important;
+  }*/
+  #birth-death-cerificate-form .day-carret-icon {
+    margin-left: -14px!important;
+  }
+  #birth-death-cerificate-form .tab-fixed {
+        margin-left: -31px!important;
+  }
+  #birth-death-cerificate-form .gender-list {
+    margin-left: 10px!important;
+  }
+  .page-birth-certificate .card-body {
+    padding: 0.7rem!important;
+  }
+  #birth-death-cerificate-form .transgender {
+    margin-left: 23px;
+    margin-top: 10px;
+  }
+  #birth-death-cerificate-form #number-verification {
+    padding-left: 20.5em!important;
+  }
+  .center-button {
+    padding-left: 2em!important;
+  }
+  .council-banner-image {
+    width: 90%;
+  }
+  .council-content h3 {
+    padding-left: 30px;
+  }
+  .council-content p {
+    padding-left: 30px;
+  }
+  .council-content li:before {
+    margin-top: 17px;
+  }
+  .page-council-services {
+    padding: 8px;
+  }
+  .council-page .title-breadcrumb {
+    padding-left: 3.5em;
+    padding-bottom: -20px;
+    margin-bottom: -10px;
+  }
+  .volunteer-mob #country-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .volunteer-mob #phone-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .form-check input[type=checkbox] {
+    position: absolute;
+    left: 0px;
+    top: 1.3em;
+  }
+  .Criminal-case {
+    padding-top: 10px;
+  }
+  .more-info {
+    padding-left: 46em;
+    font-weight: 600;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 2em;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 0em !important;
+  }
+  .navbar-expand-md .navbar-collapse {
+    display: none !important;
+  }
+  .fixed-top-scroll {
+    top: 3em;
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  .navbar-brand img {
+    width: 50px;
+    /* margin-left: 1rem; */
+  }
+  .navbar-expand-md .navbar-toggler {
+    display: block;
+    /* margin-left: 1em; */
+    padding: 9px 11px;
+    font-size: 1.5rem;
+    line-height: 1;
+    background-color: #375d6f;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: white;
+  }
+  .newsletter-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    padding-left: 10px;
+    /* margin-bottom: 20px; */
+  }
+  .medical-title {
+    font-size: 13px !important;
+    padding-top: 21em !important;
+  }
+  .container-width {
+    width: 100%;
+  }
+  .service-card .card {
+    width: 100%;
+    height: 179px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+    margin-bottom: 2em;
+  }
+  .home-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 100%;
+    /* padding-top: 7em; */
+    transform: scale(0.9);
+  }
+  .home-banner-content {
+    position: relative;
+    width: 0%;
+    color: black;
+    top: 27rem;
+    left: 12rem;
+    z-index: 1;
+  }
+  .home-page-banner-duplicate {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px !important;
+  }
+  .service-card .card h5 {
+    padding: 1em 1em 0.5em 1em;
+    cursor: pointer;
+    color: #175D7B;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+  .service-card img {
+    width: 100%;
+    height: auto;
+    margin-top: -10px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 300px;
+    border-radius: 12px;
+    max-height: 300px;
+    overflow: hidden;
+  }
+  .home-sidebar {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .home-sidebar .whats-new-card ul {
+    list-style: none;
+    max-height: 220px;
+    overflow: hidden;
+    line-height: 25px;
+    padding-left: 70px;
+  }
+  .home-sidebar .whats-new-card .link {
+    color: #000000bf;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'lato';
+  }
+  .home-sidebar .card h5 {
+    color: #175D7B;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 14px;
+    padding-left: 50px;
+  }
+  .home-sidebar .quick-links-card {
+    width: 100%;
+    /* height: 490px; */
+    max-height: 91%;
+    border-radius: 6px;
+  }
+  .home-sidebar .quick-links-card .link {
+    color: #000000bf;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: 'lato';
+    font-size: 16px;
+    padding-left: 25px;
+  }
+  .gallery-card p {
+    /* padding-left: 1em; */
+    /* padding-right: 1em; */
+    margin-top: -2em;
+    font-weight: 600;
+    color: #000000bf;
+    padding-left: 15px;
+    font-family: 'lato';
+    font-size: 16px !important;
+  }
+  .logo-text {
+    color: #ffffffc9;
+    font-size: 11.4px;
+    padding-left: 5px;
+    font-weight: 400;
+    font-family: 'lato';
+    padding-top: 10px;
+    margin-left: 0px;
+  }
+  /* .mobile-search {
+    margin-right: -35px !important;
+  } */
+  .gallery-tile {
+    margin-top: -20px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 1367px) {
+  #navbar.navbar {
+    padding: 0px;
+    /* padding-left: 26.5em !important; */
+  }
+  .main-menu .search {
+    float: right;
+    /* margin-left: 5.3em; */
+  }
+  .online-banner-image, .department-banner-image {
+    position: absolute;
+    top: 10em;
+    width: 45%;
+    transform: scale(0.92);
+    left: 48em;
+  }
+  .online-service-card {
+    padding-top: 30px !important;
+    padding-left: 0px !important;
+    padding-right: 50px !important;
+  }
+  .page-breadcrumb {
+    background: transparent;
+    /* margin-top: 4rem; */
+    margin-left: 0px;
+  }
+  .containterr-width {
+    width: 59.5%;
+    padding-right: 4.5em;
+  }
+  /* .maxx-card {
+    width: 58.5%;
+  } */
+  .navbar-pic {
+    position: absolute;
+    left: -5%;
+    padding-top: 2px;
+  }
+}
+
+@media only screen and (max-width: 769px) and (min-width: 740px) {
+  .news-letter-mobile {
+    display: none!important;
+  }
+  .rule-procedure {
+    padding-left: 1.075em !important;
+  }
+  .chennai-GCC {
+    padding-left: 0px !important;
+  }
+  .about-BC {
+    margin-bottom: 10px !important;
+  }
+  .town-landing {
+    padding-left: 5px !important;
+  }
+  .tile-TP-tax {
+    margin-bottom: 0px !important;
+  }
+  .tile-street {
+    margin-top: 0px !important;
+  }
+  .tile-TP {
+    margin-bottom: 0px !important;
+  }
+  .OS-BC {
+    padding-left: 0.5em !important;
+  }
+  .home-banner-click-here-btn a {
+    color: white;
+  }
+  .home-container {
+    width: 100% !important;
+  }
+  .topbar .navbar {
+    padding: 0em 2em 0em 2em;
+    height: 42px;
+  }
+  .topbar .site-map, .topbar .feedback, .topbar .wheelchair, .topbar .complaint, .topbar .theme-moon, .topbar .font-size {
+    display: none;
+  }
+  .topbar .social-icons {
+    display: contents;
+  }
+  .topbar .social-icon {
+    width: 24px;
+    height: 24px;
+  }
+  .social-icons .nav-link {
+    padding: 0px 8px 0px 0px !important;
+    display: flex;
+  }
+  .language-mobile {
+    margin-right: 0px !important;
+  }
+  .topbar .language {
+    border-right: 0px solid #ebebeb;
+    height: 32px;
+    margin-left: 30em;
+    margin-right: 10px;
+  }
+  .navbar-toggler{
+    display: block!important;
+  }
+  .topbar .english-language {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  /* .tamil-mobile-btn {
+    margin-right: -25em !important;
+  } */
+  .more-info {
+    padding-left: 46em;
+    font-weight: 600;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 2em;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 0em !important;
+  }
+  .navbar-expand-md .navbar-collapse {
+    display: none !important;
+  }
+  .fixed-top-scroll {
+    top: 3em;
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  .navbar-brand img {
+    width: 50px;
+    /* margin-left: 1rem; */
+  }
+  .mobile-thiruvalluvar-img {
+    width: 45px;
+    display: none;
+    float: left;
+    /* margin-left: 2em; */
+    margin-right: auto;
+    margin-right: 0;
+    /* filter: invert(1); */
+  }
+  .mobile-tamil-font {
+    display: none;
+  }
+  .navbar-expand-md .navbar-toggler {
+    display: block;
+    margin-right: 1xem;
+    padding: 9px 11px;
+    font-size: 1.5rem;
+    line-height: 1;
+    background-color: #375d6f;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: white;
+    /* margin-left: -50px; */
+  }
+  /* .mobile-search {
+    margin-left: 50px;
+  } */
+  .newsletter-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    padding-left: 10px;
+    /* margin-bottom: 20px; */
+  }
+  .container-width {
+    width: 100%;
+  }
+  .service-card .card {
+    width: 100%;
+    height: 179px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+    margin-bottom: 2em;
+  }
+  .home-banner-image {
+    position: absolute;
+    /* top: initial; */
+    /* padding-top: 7em; */
+    transform: scale(0.9);
+    left: 0em;
+  }
+  .home-page-banner-duplicate {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 366px !important;
+  }
+  .service-card .card h5 {
+    padding: 1em 1em 0.5em 1em;
+    cursor: pointer;
+    color: #175D7B;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+  .service-card img {
+    width: 100%;
+    height: auto;
+    margin-top: -10px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 300px;
+    border-radius: 12px;
+    max-height: 300px;
+    overflow: hidden;
+  }
+  .home-sidebar {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .home-sidebar .whats-new-card ul {
+    list-style: none;
+    max-height: 220px;
+    overflow: hidden;
+    line-height: 25px;
+    padding-left: 70px;
+  }
+  .home-sidebar .whats-new-card .link {
+    color: #000000bf;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'lato';
+  }
+  .home-sidebar .card h5 {
+    color: #175D7B;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 14px;
+    padding-left: 50px;
+  }
+  .home-sidebar .quick-links-card {
+    width: 100%;
+    /* height: 490px; */
+    max-height: 91%;
+    border-radius: 6px;
+  }
+  .home-sidebar .quick-links-card .link {
+    color: #000000bf;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: 'lato';
+    font-size: 16px;
+    padding-left: 25px;
+  }
+  .gallery-card p {
+    /* padding-left: 1em; */
+    /* padding-right: 1em; */
+    margin-top: 0em;
+    font-weight: 600;
+    color: #000000bf;
+    padding-left: 15px;
+    font-family: 'lato';
+    font-size: 14px !important;
+  }
+  /* .mobile-search {
+    margin-right: -35px !important;
+  } */
+  .gallery-tile {
+    margin-top: -20px;
+    margin-bottom: 10px;
+  }
+  .history ul {
+    padding-left: 0px;
+    margin-bottom: 1em;
+  }
+  .page-breadcrumb ol.breadcrumb {
+    margin-top: 20px;
+  }
+  .contaainer-width {
+    width: 100% !important;
+  }
+  .mobile-tile3-width {
+    padding-left: 17px !important;
+  }
+  .online-services-heading {
+    padding-top: 15em;
+    padding-left: 2em;
+    color: #ffffffc9;
+    font-size: 18px;
+  }
+  .Latest-news-banner {
+    height: 395px !important;
+  }
+  .home-page-banner {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 395px;
+  }
+  .home-page-banner-duplicate {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 395px !important; */
+  }
+  .OS-banner-image {
+    position: absolute;
+    top: 9em;
+    width: 73% !important;
+    transform: scale(0.92);
+    padding-top: 5em;
+    left: 15em;
+  }
+  .empty-space {
+    display: none;
+  }
+  .home-banner-content {
+    position: absolute;
+    width: 70%;
+    /* color: white; */
+    top: 26rem;
+    left: 12rem;
+    z-index: 1;
+  }
+  .home-banner-content .col {
+    padding: 0px;
+  }
+  .empty-space {
+    display: none;
+  }
+  .newsletter-text {
+    font-size: 18px;
+    display: inline-flex;
+    float: left;
+    margin-right: 1em;
+  }
+  .home-banner-click-here-btn {
+    background-color: #2d5f76;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    display: block;
+    padding: 4px 10px;
+    margin-left: 0em;
+    border: 1px solid #2d5f76;
+    border-radius: 6px;
+    margin-top: -0.5em;
+  }
+  .thirukural {
+    display: none;
+  }
+  .ome-page-main-content-duplicate {
+    /* padding-top: 8em !important; */
+    overflow: hidden;
+  }
+  .home-page-main-content {
+    padding-top: 10em;
+    overflow: hidden;
+  }
+  .mobile-gallery {
+    display: block !important;
+    margin-bottom: 1em;
+  }
+  .gallery-card {
+    height: auto !important;
+    display: none;
+  }
+  .home-other-services img {
+    margin-bottom: 1em;
+    height: auto;
+  }
+  .home-sidebar {
+    padding-left: 15px;
+  }
+  .mobile-view-width {
+    padding-left: 30px;
+  }
+  .home-sidebar .quick-links-card {
+    height: 95%;
+    max-height: 95%;
+  }
+  .footer-left-img {
+    display: none;
+  }
+  .footer-right-img {
+    display: none;
+  }
+  .page-footer .container {
+    background: url('../images/footer-silhouette-left.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 2em;
+  }
+  .footer-column {
+    padding-left: 9em;
+    padding-right: 9em;
+  }
+  .footer-container .footer-link {
+    padding-right: 0.3em;
+    font-size: 14px;
+  }
+  .footer-text {
+    padding: 0.5em 5em;
+    font-size: 14px;
+  }
+  .footer-web-phone-address {
+    padding: 0.5em 5em;
+    font-size: 14px;
+  }
+  .container-wiidth {
+    width: 100%;
+  }
+  .page-breadcrumb {
+    background: #ebf1fa;
+    margin-top: 2rem;
+    margin-left: 0px;
+  }
+  .home-page-banner {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 420px;
+  }
+  .os-tile-right-img img {
+    height: 69px;
+    width: 100%;
+    padding-left: 0px;
+  }
+  /* .twon-plan-extra-content {
+    padding-top: 20px !important;
+  } */
+  .payment {
+    padding-top: 10px !important;
+  }
+  .maxCard .page-online-services .online-service-cards .tiles-propertyTax {
+    height: 50px;
+    margin-bottom: 0.75em;
+    border-radius: 5px;
+    box-shadow: 1px black;
+    box-shadow: 2px 2px 8px #88888870;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .page-online-services .online-service-cards .tiles-townPlanning {
+    MARGIN-RIGHT: 20PX;
+    height: 50px;
+    /* margin-bottom: 1em; */
+    background: #FFFFFF;
+    border: 1px solid #ffff;
+    box-shadow: 0px 0px 12px rgb(0 0 0 / 10%);
+    border-radius: 6px;
+    MARGIN-LEFT: 20PX;
+    margin-top: 20px;
+  }
+  /* .maxCard {
+    width: 93.5% !important;
+  }
+  .maxx-card {
+    width: 90% !important;
+  } */
+  .online-service-cards {
+    padding: 0px;
+  }
+  .online-payment-service {
+    padding: 9px !important;
+  }
+  .RYPicon {
+    width: 45% !important;
+    padding-top: 6px !important;
+  }
+  .card-space-right {
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-bottom: 30px;
+  }
+  .containterr-width {
+    width: 100%;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+  .container-widdth {
+    /* width: 80%; */
+    margin-left: 40px;
+  }
+  .tax-card {
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 5px;
+    /* padding-top: 20px; */
+  }
+  .professional-tax-card {
+    padding-bottom: 30px;
+  }
+  .professional-tax-card .card img {
+    width: 32px;
+    height: 28px;
+    margin: 0.5em 0em;
+    margin-left: -8px;
+  }
+  .latest-news-title {
+    display: none;
+  }
+  .latest-news-content {
+    border: 1px solid #E5E5E5;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-right: 40px;
+    /* margin-bottom: 50px; */
+  }
+  .news-last-content {
+    margin-bottom: 50px;
+  }
+  .about-GCC-brief {
+    MARGIN-RIGHT: 10px !important;
+    height: 50px;
+    /* margin-bottom: 1em; */
+    background: #FFFFFF;
+    border: 1px solid #ffff;
+    box-shadow: 0px 0px 12px rgb(0 0 0 / 10%);
+    border-radius: 6px;
+    MARGIN-LEFT: 10px !important;
+    margin-top: 10px !important;
+  }
+  .about-chennai-title {
+    display: none;
+  }
+  .GCC-title {
+    font-size: 16px;
+  }
+  .org-chart {
+    padding-top: 0px !important;
+  }
+  .single-breadcrumb {
+    padding-left: 20px;
+  }
+  .citi-chart {
+    padding-top: 8px !important;
+  }
+  .gcc-breadcrumb {
+    margin-left: 5px;
+    padding-left: 15px !important;
+  }
+  .col-table {
+    width: 0PX;
+  }
+  .Brief-BC {
+    padding-left: 5px !important;
+  }
+  .who-is-title {
+    font-size: 2rem;
+    padding-bottom: 20px;
+    color: grey;
+    font-weight: 700;
+    /* margin-left: 6em; */
+    margin-left: 9.5em;
+    margin-top: 1em;
+  }
+  .who-is-who-page .user-pic {
+    display: block;
+    width: 100px;
+  }
+  .council-pdf {
+    padding-left: 50px;
+  }
+  .BC-title-council {
+    padding-left: 2.5em !important;
+  }
+  .user-pic {
+    width: 100%;
+  }
+  .marginBottom-town-tile-6 {
+    height: 70px !important;
+  }
+  .marginBottom-town-tile-6 {
+    margin-bottom: 5px !important;
+  }
+  .online-service-cards .propertyicons {
+    padding-top: 8px;
+    width: 45px;
+    padding-right: 5px;
+  }
+  .tender-timeline {
+    padding-left: 40px;
+  }
+  .page-newsletter {
+    padding-top: 10px;
+  }
+  .issue-one {
+    margin-top: 35px;
+  }
+  .gcc-breadCrumb {
+    padding-left: 8px !important;
+  }
+  .home-containerr {
+    width: 100% !important;
+  }
+  .gcc-BC {
+    margin-left: 5px;
+  }
+  .navbar-pic {
+    display: none;
+  }
+  .medical-ol {
+    margin-left: 10px;
+  }
+  .professional-tax-card {
+    padding: 2em;
+  }
+  .container-widtth {
+    width: 100% !important;
+  }
+  .zone-card {
+    border: 1px solid #fff;
+    padding: 2em;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .image-padding-0 {
+    padding-left: 0px !important;
+  }
+  .card-height {
+    width: 100%;
+  }
+  .title-breadcrumb {
+    padding-left: 2.5em;
+    margin-bottom: -10px;
+  }
+  .tender-bulletin {
+    margin-top: 0px !important;
+  }
+}

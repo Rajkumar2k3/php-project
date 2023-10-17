@@ -1,0 +1,5251 @@
+@media only screen and (min-device-width : 1300px) and (max-device-width : 1400px) {  
+  .council-responsive-bc {
+    margin-left: 6em;
+    margin-bottom: 2px;
+  }
+  .back-btn-act {
+    margin-bottom: 30px!important ;
+  }
+  .back-btn-act #right-back {
+    margin-right: 10px!important;
+  }
+  .bc-container-width {
+    margin-left: 9.5em!important;
+  }
+  .about-page-bc {
+    margin-left: 30px!important;
+  }
+
+}
+
+@media only screen and (min-device-width : 1200px) and (max-device-width : 1299px) {  
+  .council-responsive-bc {
+    margin-left: 9.5em!important;
+    margin-bottom: 2px;
+  }
+  .twon-plan-extra-content  {
+    padding: 5px!important;
+  }
+  /*.bc-container-width {
+    margin-left: 9.5em!important;
+  }
+  .about-page-bc {
+    margin-left: 30px!important;
+  }*/
+  .padding-top-em {
+    margin-left: 3em!important;
+  }
+  .half-hd-bc {
+    margin-left: 5.5em!important;
+  }
+  .user-pic {
+    width: 80%!important;
+  }
+  #mobile{
+    display: none!important;
+  }
+  .about-gcc-page .page-title-head {
+    margin-left: 3em!important;
+  }
+  .about-resp-banner {
+    width: 100%!important;
+  }
+}
+
+
+@media only screen and (min-device-width : 1660px) and (max-device-width : 5000px) {  
+  .high-resp-dev {
+    margin : 100px;
+  }
+  .Swach-bharat #rulesprocedure-rule1{
+    padding-left: 8em!important;  
+  }
+}
+
+@media only screen and (min-device-width : 300px) and (max-device-width : 700px) {  
+  .covid-details-img {
+    margin : 15px;
+  }
+  .project-table-view {
+    overflow-x: scroll!important;
+  }
+}
+
+@media only screen and (min-device-width : 370px) and (max-device-width : 380px) { 
+.mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+
+  .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+  .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+  .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+  .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+ .mobile-view-whatsapp-btn{
+    padding-left: 30px!important;
+  }
+.navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+input.gsc-input { 
+  width: 100% !important;
+}
+.gsc-search-button {
+  padding: 10px;
+   background: #375d6f;
+}
+.pixels-4-padding{
+    padding: 20px;
+  }
+  .bc-extend-container-dept {
+  margin-top: 5em;
+}
+.mob-table-scroll {
+  overflow-x: scroll;
+}
+.bc-extend-container{
+  margin-top: 5em;
+}
+.full-width-container {
+  width: 100%;
+}
+
+.iphone-xs-14-title{
+  padding-top: 0em!important;
+}
+.iphone-xs-14{
+  padding-top: 8em;
+}
+.iphone-fixex{
+  margin-top: 3em!important;
+}
+ #gender-error{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+  }
+
+  #regcaptchNo-error {
+    position: absolute;
+    top: 50px;
+  }
+
+}
+
+@media screen and (max-width: 400px) and (min-width: 381px) { 
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+  .news-letter-mobile h6 {
+    color: #000!important ;
+  }
+   .newsletter-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+  }
+  .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+    text-align: -webkit-center;
+  }
+   .mobile-view-whatsapp-btn{
+    padding-left: 0px!important;
+  }
+  input.gsc-input {
+  width: 100% !important;
+}
+  .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+.gsc-search-button {
+  padding: 10px;
+  background: #375d6f;
+}
+
+   .pixels-4-padding{
+    padding: 20px !important;
+  }
+  .mob-table-scroll {
+  overflow-x: scroll;
+}
+  .full-width-container {
+  width: 100%;
+}
+.bc-extend-container{
+  margin-top: 5em;
+}
+.bc-extend-container-dept {
+  margin-top: 5em;
+}
+
+.bc-extend-container-dept
+  #gender-error{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+  }
+
+  #regcaptchNo-error {
+    position: absolute;
+    top: 50px;
+  }
+  
+
+  .breadcrumb-item+.breadcrumb-item.active::before {
+   border-radius: 67px!important;
+    position: relative!important;
+    top: -11px!important;
+    left: -9px!important;
+    display: block!important;
+    border-left: 14px solid white!important;
+    border-top: 22px solid transparent!important;
+    border-bottom: 22px solid transparent!important;
+    width: 0!important;
+    height: 0!important;
+    content: " "!important;
+  }
+.scheme-landing{
+  margin-top: 30px;
+}
+ .mobile-social-align {
+  display: contents !important;
+ }
+ .resp-mob-fixes{
+ height: 350px!important;
+ }
+
+ .home-banner-image {
+ top: 11.3em!important;
+ 
+ }
+ .tender-banner-img {
+  width: 380px!important;
+  padding-top: 50px;
+ }
+ #TenderTitle {
+  text-align: center;
+ }
+ .tender-page .page-breadcrumb {
+  margin-left: 2em!important;
+ }
+ .tender-mob-view{
+  background-color: #175D7B!important;
+ }
+ .zone-card {
+  margin-left: 0px!important  ;
+  margin-right: 0px;
+ }
+ .card-height {
+  width: 100%!important;
+ }
+ .tender-mob-card {
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+ }
+ .zone-card .card img {
+  width: 30px!important!important ;
+  padding-right: 10px!important;
+ }
+ .img-res-banner {
+  width: 380px;
+  padding-top: 3em!important;
+ }
+ #OSTitle-title {
+  text-align: center;
+ }
+ .about-resp-banner {
+  width: 380px;
+  padding-top: 0em!important;
+ }
+ .about-gcc-container {
+  width: 100%!important;
+ }
+ .resp-mob-container {
+  margin-right: 10px;
+ }
+ .home-page-banner h4 {
+  text-align: center;
+ }
+ .mob-abt-res-width{ 
+    width: 100%!important;
+  }
+  .magnifying-glass-mobile {
+    margin-left: 0px;
+  }
+  .contaainer-width {
+    width: 100%!important;
+  }
+  .breadcrumb-item+.breadcrumb-item.active::before {
+   border-radius: 67px!important;
+    position: relative!important;
+    top: -11px!important;
+    left: -9px!important;
+    display: block!important;
+    border-left: 14px solid white!important;
+    border-top: 22px solid transparent!important;
+    border-bottom: 22px solid transparent!important;
+    width: 0!important;
+    height: 0!important;
+    content: " "!important;
+  }
+  .mob_dept_container{
+    width: 100%!important;
+  }
+  .professional-tax-card {
+    padding: 1em !important;
+  }
+
+}
+
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+    .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+     .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+     .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+     .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+    .who-is-title {
+    margin-left: 0em!important;
+  }
+    .news-letter-mobile h6 {
+    color: #000!important ;
+  }
+    .mobile-view-whatsapp-btn{
+    padding-left: 30px!important;
+    }
+    input.gsc-input {
+  width: 100%!important;
+}
+    .gsc-search-button {
+  padding: 10px;
+   background: #375d6f;
+}
+    .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+    .bc-extend-container-dept {
+  margin-top: 5em;
+}
+     .pixels-4-padding{
+    padding: 20px;
+  }
+    .mob-table-scroll {
+  overflow-x: scroll;
+}
+    .bc-extend-container{
+  margin-top: 5em;
+}
+.full-width-container {
+  width: 100%;
+}
+    .breadcrumb-item+.breadcrumb-item.active::before {
+   border-radius: 67px!important;
+    position: relative!important;
+    top: -11px!important;
+    left: -9px!important;
+    display: block!important;
+    border-left: 14px solid white!important;
+    border-top: 22px solid transparent!important;
+    border-bottom: 22px solid transparent!important;
+    width: 0!important;
+    height: 0!important;
+    content: " "!important;
+  }
+    #gender-error{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+  }
+
+  #regcaptchNo-error {
+    position: absolute;
+    top: 50px;
+  }
+    .enquiry-feedback-mobile
+    {
+      text-align: center!important;
+    }
+.covid-table-x-scroll{
+  overflow-x: scroll;
+}
+    .volunteer-country-align #country-code{
+    margin-left: 35px!important;
+  }
+
+    .council-page .mobile-bc-padding {
+      padding-left: 0px!important;
+    }
+    .mobile-bottom-space {
+      padding-bottom: 20px;
+    }
+    .mobile-align-center{
+    padding-left: 0px!important;
+  }
+  #profession-tax-calculator-from table .employer-radio {
+    width: 40px;
+  }
+   #profession-tax-calculator-from table input[type=radio] {
+   margin-left: 10px
+  }
+  .ptc-mobile-space-align{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+    #profession-tax-calculator-from table .calculator-heading {
+      padding: 5px 5px;
+
+    }
+    .mobile-top-margin{
+    margin-top: 20px;
+  }
+    .ptc-padding-remove-mobile{
+      padding: 0px!important;
+    }
+    .chennai-school-form-banner {
+      height: 90px !important;
+    }
+    
+    .navbar-brand img {
+    width: 35px !important;
+}
+     .school-reg-form  .scl_phone1 {
+    width: 65%;
+  }
+   .school-reg-form  .scl_phone2 {
+    width: 65%;
+  }
+   .school-reg-form  #country-code {
+    margin-left: 30px;
+  }
+    .container-margin {
+      margin: 15px;
+      margin-top: 30px;
+    }
+      .form-hd-width {
+      margin-left: 0px!important;
+      }
+    .feedback-bc {
+      margin-left: 0em!important;
+    }
+    .mobile-margin-container {
+      margin:5px;
+      margin-top: 3em;
+          }
+    .margin-align-right {
+      margin-right: 50px!important;
+    }
+    #topBar-complaintNumber {
+      display: none;
+    }
+    .feedback  {
+      display: none;
+    }
+    .site-map{
+      display: none;
+    }
+    .wheelchair  {
+      display: none;
+    }
+    .font-size {
+      display: none;
+    } 
+    .theme-moon {
+      display: none;
+    }
+  
+    .home-page-banner {
+      height: 350px!important;
+    }
+
+    .volunteer-country-align #country-code{
+    margin-left: 35px!important;
+  }
+
+    .council-page .mobile-bc-padding {
+      padding-left: 0px!important;
+    }
+    .mobile-bottom-space {
+      padding-bottom: 20px;
+    }
+    .mobile-align-center{
+    padding-left: 0px!important;
+  }
+  #profession-tax-calculator-from table .employer-radio {
+    width: 40px;
+  }
+   #profession-tax-calculator-from table input[type=radio] {
+   margin-left: 10px
+  }
+  .ptc-mobile-space-align{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+    #profession-tax-calculator-from table .calculator-heading {
+      padding: 5px 5px;
+
+    }
+    .mobile-top-margin{
+    margin-top: 20px;
+  }
+    .ptc-padding-remove-mobile{
+      padding: 0px!important;
+    }
+    .chennai-school-form-banner {
+      height: 90px !important;
+    }
+    
+    .navbar-brand img {
+    width: 35px !important;
+}
+     .school-reg-form  .scl_phone1 {
+    width: 65%;
+  }
+   .school-reg-form  .scl_phone2 {
+    width: 65%;
+  }
+   .school-reg-form  #country-code {
+    margin-left: 30px;
+  }
+    .container-margin {
+      margin: 15px;
+      margin-top: 30px;
+    }
+      .form-hd-width {
+      margin-left: 0px!important;
+      }
+    .feedback-bc {
+      margin-left: 0em!important;
+    }
+    .mobile-margin-container {
+      margin:5px;
+      margin-top: 3em;
+          }
+    .margin-align-right {
+      margin-right: 50px!important;
+    }
+    #topBar-complaintNumber {
+      display: none;
+    }
+    .feedback  {
+      display: none;
+    }
+    .site-map{
+      display: none;
+    }
+    .wheelchair  {
+      display: none;
+    }
+    .font-size {
+      display: none;
+    } 
+    .theme-moon {
+      display: none;
+    }
+  
+    .home-page-banner {
+      height: 350px!important;
+    }
+
+    .mobile-fix-width {
+      width: 100%!important;
+      margin-left: 1px!important;
+    }
+     .help-modal {
+      display: none!important;
+    }
+   .mobile-top-bar {
+    margin-top: 0px!important;
+   }
+   .mobile-social-align{
+    padding-top: 0px!important;
+   }
+   .home-banner-content {
+    display: none!important;
+   }
+   .home-page-banner-duplicate {
+    min-height:  225px;
+  }
+  .covid-card-carousel {
+    height: 100px !important;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+}
+.covid-375-fix {
+   /* height: 150px !important;*/
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+   .fix-375-card{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+   .width-crt-375px {
+    width: 100%!important;
+  }
+  .fix-375-card .card {
+    max-height:  140px!important;
+
+  }
+   .footer-container img{
+    width: 0;
+    height: 0;
+  }
+  .topbar .nav-link {
+    padding: .3rem 0.5rem;
+  }
+
+}
+
+@media screen and (max-width: 430px) and (min-width: 400px) {
+   .breadcrumb-min_height_mob_view {
+    min-height: 100px!important;
+  }
+  .breadcrumb-min_height_mob_view .bc-active {
+   margin-top: 15px!important;
+  }
+  .mob-padding_space {
+    padding: 0.1rem 0.1rem!important;
+  } 
+ .breadcrumb-min_height_mob_view .bc-white {
+    background: #fff!important;
+     margin-top: px!important;
+  }
+}
+
+@media screen and (max-width: 380px) and (min-width: 300px) {
+  .breadcrumb-min_height_mob_view {
+    min-height: 100px!important;
+  }
+  .breadcrumb-min_height_mob_view .bc-active {
+   margin-top: 0px!important;
+  }
+  .mob-padding_space {
+    padding: 0.1rem 0.1rem!important;
+  } 
+  .breadcrumb-min_height_mob_view .bc-white {
+    background: #fff!important;
+  }
+
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+  .news-letter-mobile h6 {
+    color: #000!important ;
+  }
+  .mobile-view-whatsapp-btn{
+    padding-left: 10px!important;
+  }
+   input.gsc-input {
+  width: 100%!important;
+}
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .bc-extend-container-dept {
+  margin-top: 5em;
+}
+   .pixels-4-padding{
+    padding: 20px;
+  }
+  .mob-table-scroll {
+  overflow-x: scroll;
+}
+  .bc-extend-container{
+  margin-top: 5em;
+}
+.full-width-container {
+  width: 100%;
+}
+  .breadcrumb-item+.breadcrumb-item.active::before {
+   border-radius: 67px!important;
+    position: relative!important;
+    top: -11px!important;
+    left: -9px!important;
+    display: block!important;
+    border-left: 14px solid white!important;
+    border-top: 22px solid transparent!important;
+    border-bottom: 22px solid transparent!important;
+    width: 0!important;
+    height: 0!important;
+    content: " "!important;
+  }
+  #gender-error{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+  }
+
+  #regcaptchNo-error {
+    position: absolute;
+    top: 50px;
+  }
+  .enquiry-feedback-mobile {
+    text-align: center!important;
+  }
+  .volunteer-country-align #country-code{
+    margin-left: 35px!important;
+  }
+  .covid-table-x-scroll{
+  overflow-x: scroll;
+}
+
+  .volunteer-page-bc {
+      margin-left: 0px!important;
+    }
+   .council-page .mobile-bc-padding {
+      padding-left: 0px!important;
+    }
+  .mobile-bottom-space {
+      padding-bottom: 20px;
+    }
+  .mobile-align-center{
+    padding-left: 0px!important;
+  }
+  #profession-tax-calculator-from table .employer-radio {
+    width: 40px;
+  }
+   #profession-tax-calculator-from table input[type=radio] {
+   margin-left: 10px
+  }
+  .ptc-mobile-space-align{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+   #profession-tax-calculator-from table .calculator-heading {
+      padding: 5px 5px;
+
+    }
+  .mobile-top-margin{
+    margin-top: 20px;
+  }
+   .ptc-padding-remove-mobile{
+      padding: 0px!important;
+    }
+  .school-reg-form .mobile-left-align {
+    margin-left: 8px!important;
+  }
+  .mobile-padding-space {
+    padding-left: 10px!important;
+  }
+   .school-reg-form  .scl_phone1 {
+    width: 60%;
+  }
+   .school-reg-form  .scl_phone2 {
+    width: 60%;
+  }
+   .school-reg-form  #country-code {
+    margin-left: 30px;
+  }
+   .form-hd-width {
+    margin-left: 0px!important;
+  }
+  .feedback-bc {
+      margin-left: 0em!important;
+    }
+    .feedback-title-bc {
+      padding-left: 1em!important;
+    }
+  .mobile-margin-container {
+      margin:5px;
+      margin-top: 3em;
+    }
+  .margin-align-right {
+      margin-right: 50px!important;
+    }
+  .advance-search-captch{
+    margin-right: 25px;
+  }
+  
+  .form-page-br-fixes {
+    margin-left: 20px!important;
+  }
+  .covid-vaccine {
+    font-size: 20px !important;
+    padding-left: 20px;
+}
+
+/*Top bar spin*/
+
+  .mobile-social-align {
+    display: -webkit-inline-box!important;
+  }
+  
+  .mobile-social-align {
+    padding-top: 8px;
+  }
+
+/*Top bar spin*/
+
+  .img-res-banner {
+    width: 100%;
+    padding-top: 2em!important;
+  }
+  .page-title-head {
+    padding-top: 5em;
+    text-align: center;
+  }
+  .mobile-top-tamil {
+    display: block!important;
+  }
+  .top-bar-mobile-menu li a {
+    font-size: 12px!important;
+  }
+  .mobile-top-bar {
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+  .top-fa-bar {
+    color: #fff;
+  }
+  /*#toggleLanguage {
+    display: none!important;
+  }*/
+  /*.home-top-nav {
+    display: none!important;
+  }*/
+  /* #topBar-login {
+    display: none!important;
+  }*/
+  .mobile-top-bar-v {
+    display: none!important;
+  }
+  .tender-image {
+    width: 140% !important;
+    margin-left: -4.5em !important;
+    position: inherit !important;
+    padding-top: 1.7em !important;
+    transform: scale(0.9);
+  }
+  .home-banner-image-duplicate {
+    position: relative;
+    top: -6em;
+    width: 100%;
+    transform: scale(0.92);
+  }
+  /*.tamil-mobile-btn{
+  display: none;
+}
+.login-register {
+  display: none;
+}*/
+  /*.mobile-news-leter-fix{
+    padding-top: 5em!important;
+  }*/
+  /*.mobile-view-btn-fix {
+    position: r;
+    right: 35px!important;
+  }*/
+  /*.home-page-main-content .main-content {
+    z-index: 9999!important;
+  }*/
+  /*#banner-newsletter{
+    position: fixed;!important;
+  }*/
+  .dept-land-padding {
+    padding-right: 15px;
+  }
+  .tab-news-letter {
+    display: block!important;
+  }
+  /* .news-letter-mobile{
+    display: block!important;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 40px;
+
+  } */
+  .table-width-scroll {
+    overflow-x: scroll;
+  }
+  #return-to-top {
+    display: none!important;
+  }
+  .table-right {
+    margin-left: 50px!important;
+  }
+  .tab {
+    width: 100%!important;
+  }
+  .tab button {
+    font-size: 14px!important;
+  }
+  .tabcontent {
+    width: 100%!important;
+  }
+  .who-is-who-page .user-pic {
+    width: 25%!important;
+    margin-top: 8em!important;
+  }
+  .tabcontent {
+    height: 4000px!important;
+  }
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+  .who-details p {
+    width: 100%;
+    line-height: 1.3;
+  }
+  .mobile-tax-BC {
+    display: none !important;
+  }
+  .page-breadcrumb ol.breadcrumb {
+    height: 38px !important;
+  }
+  .page-online-services .online-service-cards h6 {
+    padding-left: 10px !important;
+    padding-right: 0px !important;
+  }
+  .medical-service-page {
+    margin-top: 2em;
+  }
+  .location-tree h3 {
+    padding-left: 10px!important;
+  }
+  #tree-planet-form label {
+    padding-left: 0px!important;
+  }
+  #tree-planet-form .number {
+    margin-left: 0px!important;
+  }
+  #country-code {
+    margin-left: 15px!important;
+  }
+  #tree-planet-form #mobile-num {
+    width: 55%;
+  }
+  #tree-planet-form .location {
+    margin-left: 0px;
+    width: 92%;
+  }
+  #tree-planet-form #email {
+    margin-left: 0px;
+    width: 92%;
+  }
+  #tree-planet-form .email {
+    margin-left: 0px!important;
+    width: 92%;
+  }
+  .depart-sidebar {
+    display: block;
+  }
+  .depart-sidebar .active {
+    margin-left: 15px;
+  }
+  .mobile-sidebar a {
+    padding: -6px 8px 8px 21px;
+  }
+  .medical-service-page .zone-card .card h5 {
+    font-size: 0.712rem!important;
+  }
+  .location-tree {
+    padding-left: 10px!important;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 400px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+   .mobile-view-whatsapp-btn{
+    padding-left: 30px!important;
+    padding-top: 20px;
+  }
+
+  input.gsc-input {
+  width: 100% !important;
+}
+  .gsc-search-button {
+  padding: 10px;
+   background: #375d6f;
+}
+ .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .bc-extend-container-dept {
+  margin-top: 5em;
+}
+  .pixels-4-padding{
+    padding: 20px;
+  }
+  .mob-table-scroll {
+  overflow-x: scroll;
+}
+  .bc-extend-container{
+  margin-top: 5em;
+}
+.full-width-container {
+  width: 100%;
+}
+  .breadcrumb-item+.breadcrumb-item.active::before {
+   border-radius: 67px!important;
+    position: relative!important;
+    top: -11px!important;
+    left: -9px!important;
+    display: block!important;
+    border-left: 14px solid white!important;
+    border-top: 22px solid transparent!important;
+    border-bottom: 22px solid transparent!important;
+    width: 0!important;
+    height: 0!important;
+    content: " "!important;
+  }
+  #gender-error{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+  }
+
+  #regcaptchNo-error {
+    position: absolute;
+    top: 50px;
+  }
+  .enquiry-feedback-mobile {
+    text-align: center!important;
+  }
+  .volunteer-country-align #country-code{
+    margin-left: 35px!important;
+  }
+  .covid-table-x-scroll{
+  overflow-x: scroll;
+}
+
+   .council-page .mobile-bc-padding {
+      padding-left: 0px!important;
+    }
+    .volunteer-page-bc {
+      margin-left: 0px!important;
+    }
+  .mobile-bottom-space {
+      padding-bottom: 20px;
+    }
+  .mobile-align-center{
+    padding-left: 0px!important;
+  }
+  #profession-tax-calculator-from table .employer-radio {
+    width: 40px;
+  }
+   #profession-tax-calculator-from table input[type=radio] {
+   margin-left: 10px
+  }
+  .ptc-mobile-space-align{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+   #profession-tax-calculator-from table .calculator-heading {
+      padding: 5px 5px;
+    }
+  .mobile-top-margin{
+    margin-top: 20px;
+  }
+   .ptc-padding-remove-mobile{
+      padding: 0px!important;
+    }
+  .school-reg-form .mobile-left-align {
+    margin-left: 8px!important;
+  }
+   .school-reg-form  .scl_phone1 {
+    width: 65%;
+  }
+   .school-reg-form  .scl_phone2 {
+    width: 65%;
+  }
+   .school-reg-form  #country-code {
+    margin-left: 30px;
+  }
+   .container-margin {
+      margin: 15px;
+      margin-top: 30px;
+    }
+  .form-hd-width {
+    margin-left: 0px!important;
+  }
+  .feedback-bc {
+      margin-left: 0em!important;
+  }
+  .feedback-title-bc {
+      padding-left: 1em!important;
+    }
+  .mobile-margin-container {
+      margin:5px;
+       margin-top: 3em;
+    }
+  .margin-align-right {
+      margin-right: 50px!important;
+  }
+  
+  .covid-vaccine {
+    font-size: 20px !important;
+    padding-left: 40px;
+    margin-left: 0px !important;
+}
+  .img-res-banner {
+    width: 100%;
+    padding-top: 0em!important;
+  }
+  .page-title-head {
+    padding-top: 5em!important;
+    text-align: center;
+  }
+  .tender-image {
+    width: 140% !important;
+    margin-left: -4.5em !important;
+    position: inherit !important;
+    padding-top: 1.4em !important;
+    transform: scale(0.9);
+  }
+  /* .news-letter-mobile{
+    display: block!important;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 40px;
+  } */
+  .dept-land-padding {
+    padding-right: 15px;
+  }
+  .tab-news-letter {
+    display: block!important;
+  }
+  .mobile-tax-BC {
+    display: none !important;
+  }
+  .table-right {
+    margin-left: 20px!important;
+  }
+  .medical-service-page {
+    margin-top: 2em;
+  }
+  .medical-service-page .zone-card .card h5 {
+    font-size: 0.687rem!important;
+  }
+  .location-tree h3 {
+    padding-left: 10px!important;
+  }
+  #tree-planet-form label {
+    padding-left: 0px!important;
+  }
+  #tree-planet-form .number {
+    margin-left: 0px!important;
+  }
+  #country-code {
+    margin-left: 15px!important;
+  }
+  #tree-planet-form #mobile-num {
+    width: 66%!important;
+  }
+  #tree-planet-form .location {
+    margin-left: 0px;
+    width: 92%;
+  }
+  #tree-planet-form #email {
+    margin-left: 0px;
+    width: 92%;
+  }
+  #tree-planet-form .email {
+    margin-left: 0px!important;
+    width: 92%;
+  }
+  .depart-sidebar {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 380px) and (min-width: 300px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+  input.gsc-input {
+  width: 100% !important;
+}
+  .gsc-search-button{
+    padding: 10px;
+    background: #375d6f;
+  }
+  .volunteer-country-align #country-code{
+    margin-left: 35px!important;
+  }
+  .covid-table-x-scroll{
+  overflow-x: scroll;
+}
+  .volunteer-page-banner {
+    height: 110px!important;
+  }
+  .mobile-bottom-space {
+      padding-bottom: 20px;
+    }
+  .mobile-align-center{
+    padding-left: 0px!important;
+  }
+  #profession-tax-calculator-from table .employer-radio {
+    width: 40px;
+  }
+   #profession-tax-calculator-from table input[type=radio] {
+   margin-left: 10px
+  }
+  .ptc-mobile-space-align{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+   #profession-tax-calculator-from table .calculator-heading {
+      padding: 5px 5px;
+
+    }
+  .mobile-top-margin{
+    margin-top: 20px;
+  }
+   .ptc-padding-remove-mobile{
+      padding: 0px!important;
+    }
+   .container-margin {
+      margin: 15px;
+      margin-top: 30px;
+    }
+  .feedback-bc {
+      margin-left: 0em!important;
+    }
+    .feedback-title-bc {
+      padding-left: 1em!important;
+    }
+  .mobile-margin-container {
+      margin:5px;
+       margin-top: 3em;
+    }
+  .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+  .tab-news-letter {
+    display: block!important;
+  }
+  .table-width-scroll {
+    overflow-x: scroll;
+  }
+  #Soid .special-work li:before {
+    left: -32px!important;
+  }
+  .table-right {
+    margin-left: 20px!important;
+  }
+  .special-work ul {
+    padding-left: 0px!important;
+  }
+  #Soid .bullet-small h5 {
+    margin-left: 15px!important;
+  }
+  .solid-page {
+    width: 92%!important;
+  }
+  #infrastructures .head-subline {
+    padding-left: 8px!important;
+  }
+  .head-subline {
+    padding-left: 8px!important;
+  }
+  .page-depart-services h3 {
+    font-size: 1rem!important;
+  }
+  .inside-head-subline {
+    padding-left: 20px;
+  }
+  #install p {
+    padding-left: 25px!important;
+  }
+  #knowledge .head-subline {
+    padding-left: 15px!important;
+  }
+  .teaching-img {
+    padding-left: 0px;
+  }
+  .teaching-img img {
+    width: 95%;
+  }
+  #ecrt .education-list {
+    padding-left: 20px!important;
+  }
+  #tab4 ul {
+    padding-left: 15px!important;
+  }
+  .mobile-view-list {
+    padding-left: 0px!important;
+  }
+  #activity .head-subline {
+    padding-left: 5px!important;
+  }
+  #bus p {
+    padding-left: 25px;
+  }
+  .history .road-content {
+    padding-left: 25px;
+  }
+  .mechanical-page-table th {
+    font-size: 12px!important;
+  }
+  .mechanical-page-table {
+    margin-left: 5px!important;
+  }
+  .mechanical-engg .img-title img {
+    width: 80%;
+    padding-left: 20px;
+  }
+  .park-page .center-img {
+    text-align: center;
+  }
+  .park-image img {
+    width: 95%!important;
+  }
+  .town-plan-page h6 {
+    padding-left: 0px!important;
+    font-size: 0.75rem
+  }
+  .town-plannig-table-page .electrical-table {
+    margin-left: 0px!important;
+  }
+  .town-plannig-table-page .table-content {
+    margin-left: 0px!important;
+  }
+  .town-plannig-table-page .process-table {
+    margin-left: 10px!important;
+  }
+  .town-plan-page .list-paragraph {
+    padding-left: 30px;
+  }
+  .revenue-page-main .head-subline {
+    padding-left: 18px!important;
+  }
+  .revenue-table {
+    margin-left: 10px!important;
+  }
+  .revenue-page {
+    margin-left: 10px!important;
+  }
+  .solid-waste-main .solid {
+    padding-left: 20px!important;
+  }
+  .solid-waste-main h5 {
+    padding-left: 20px!important;
+  }
+  .solid-waste-main .inside-head-subline {
+    padding-left: 5px!important;
+  }
+  .solid-waste-main .step-content {
+    padding-left: 3px!important;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 400px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .topbar .language-btn{
+    margin: 4px 10px!important;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-title {
+    margin-left: 0em!important;
+  }
+  .pixels-4-padding{
+    padding: 20px;
+  }
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+
+  .enquiry-feedback-mobile {
+    text-align: center!important;
+  }
+  .volunteer-page-banner {
+    height: 110px!important;
+  }
+  .covid-table-x-scroll{
+  overflow-x: scroll;
+  }
+   #profession-tax-calculator-from table .calculator-heading {
+      padding: 5px 5px;
+    }
+
+  .mobile-top-margin{
+    margin-top: 20px;
+  }
+   .ptc-padding-remove-mobile{
+      padding: 0px!important;
+    }
+   .container-margin {
+      margin: 15px;
+      margin-top: 30px;
+    }
+  .mobile-margin-container {
+      margin:5px;
+       margin-top: 3em;
+    }
+  #Soid .special-work li:before {
+    left: -32px!important;
+  }
+  /*.home-top-nav {
+    display: none!important;
+  }*/
+  .special-work ul {
+    padding-left: 0px!important;
+  }
+  .solid-waste-main .bullet-small h5 {
+    padding-left: 30px!important;
+  }
+  .solid-page {
+    width: 92%!important;
+  }
+  .solid-page-table {
+    margin-left: 30px!important;
+  }
+  #infrastructures .head-subline {
+    padding-left: 20px!important;
+  }
+  .head-subline {
+    padding-left: 31px!important;
+  }
+  .page-depart-services h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption li:before {
+    margin-top: 5px!important;
+  }
+  .history p {
+    padding-left: 10px!important;
+  }
+  .history h3 {
+    padding-left: 10px!important;
+  }
+  .bullet li:before {
+    width: 12px!important;
+    height: 12px !important;
+  }
+  .inside-head-subline {
+    padding-left: 20px;
+  }
+  #install p {
+    padding-left: 25px!important;
+  }
+  #knowledge .head-subline {
+    padding-left: 30px!important;
+  }
+  .teaching-img {
+    padding-left: 0px;
+  }
+  .teaching-img img {
+    width: 95%;
+  }
+  #ecrt .education-list {
+    padding-left: 30px!important;
+  }
+  #tab4 ul {
+    padding-left: 15px!important;
+  }
+  .mobile-view-list {
+    padding-left: 0px!important;
+  }
+  #activity .head-subline {
+    padding-left: 5px!important;
+  }
+  .park-image img {
+    width: 95%!important;
+  }
+  .dept-bridge #rule h3 {
+    padding-left: 0px!important;
+  }
+  .dept-bridge .roles p {
+    padding-left: 0px!important;
+  }
+  .town-plan-page h6 {
+    padding-left: 0px!important;
+    font-size: 0.75rem
+  }
+  .town-plannig-table-page .electrical-table {
+    margin-left: 0px!important;
+  }
+  .town-plannig-table-page .table-content {
+    margin-left: 0px!important;
+  }
+  .town-plannig-table-page .process-table {
+    margin-left: 10px!important;
+  }
+  .town-plan-page .list-paragraph {
+    padding-left: 30px;
+  }
+  .revenue-page-main .head-subline {
+    padding-left: 18px!important;
+  }
+  .history .mobile-view-list {
+    padding-left: 0px!important;
+  }
+  .solid-waste-main .solid {
+    padding-left: 5px!important;
+  }
+  .solid-waste-main h5 {
+    padding-left: 30px!important;
+  }
+  .solid-waste-main .inside-head-subline {
+    padding-left: 5px!important;
+  }
+  .solid-waste-main .step-content {
+    padding-left: 3px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .enquiry-feedback-mobile {
+    text-align: center!important;
+  }
+  .volunteer-page-banner {
+    height: 110px!important;
+  }
+  .covid-table-x-scroll{
+  overflow-x: scroll;
+}
+  /* .page-depart-services .maxCard {
+    width: 90%!important;
+  } */
+  .history p {
+    margin-right: 0!important;
+  }
+  .bullet-big-li h3 {
+    padding-left: 0px!important;
+  }
+  .Complaints .bullet-big-li h3 {
+    padding-left: 10px!important;
+  }
+  .bullet-small .bullet-small h5 {
+    padding-left: 0px!important;
+  }
+  .Complaints li:before {
+    left: 4px!important;
+  }
+  .Consumption .maxCard h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption p {
+    padding-left: 30px!important;
+  }
+  .depart-img {
+    text-align: center;
+  }
+  .special-work li:before {
+    margin-left: 0px!important;
+  }
+  .special-work h5 {
+    padding-left: 0px!important;
+  }
+  .health-table {
+    margin-left: 25px!important;
+  }
+  .health-page .health-table2 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table3 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table4 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .Consumption h3 {
+    font-size: 1rem!important;
+  }
+  .health-page .history h3 {
+    padding-left: 10px!important;
+  }
+  .legal-cell h6 {
+    padding-left: 0px!important;
+  }
+  .legal-cell-page .legal-cell-table {
+    width: 95% !important;
+    margin-left: 0px!important;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+
+  #gender-error{
+    position: absolute;
+    top: 70px;
+    left: 10px;
+  }
+
+  #regcaptchNo-error {
+    position: absolute;
+    top: 50px;
+  }
+
+  .breadcrumb-item+.breadcrumb-item.active::before {
+   border-radius: 67px!important;
+    position: relative!important;
+    top: -11px!important;
+    left: -9px!important;
+    display: block!important;
+    border-left: 14px solid white!important;
+    border-top: 22px solid transparent!important;
+    border-bottom: 22px solid transparent!important;
+    width: 0!important;
+    height: 0!important;
+    content: " "!important;
+  }
+  /* .page-depart-services .maxCard {
+    width: 93%!important;
+  } */
+  .enquiry-feedback-mobile {
+    text-align: center!important;
+  }
+  .history p {
+    margin-right: 0!important;
+  }
+  .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  .Complaints .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  #special-work .content {
+    padding-left: 25px!important;
+  }
+  #special-work .bullet-small h5 {
+    padding-left: 20px!important;
+  }
+  .bullet-small h5 {
+    padding-left: 0px!important;
+  }
+  .Complaints li:before {
+    left: 4px!important;
+  }
+  .Consumption .maxCard h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption p {
+    padding-left: 30px!important;
+  }
+  .depart-img {
+    text-align: center;
+  }
+  .special-work li:before {
+    margin-left: 20px!important;
+  }
+  .special-work h5 {
+    padding-left: 0px!important;
+  }
+  .bullet-li p {
+    padding-left: 25px!important;
+  }
+  .health-table {
+    margin-left: 25px!important;
+  }
+  .health-page .health-table2 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table3 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table4 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .Consumption h3 {
+    font-size: 1rem!important;
+  }
+  .health-page .history h3 {
+    padding-left: 10px!important;
+  }
+  .legal-cell h6 {
+    padding-left: 0px!important;
+  }
+  .legal-cell-page .legal-cell-table {
+    width: 95% !important;
+    margin-left: 0px!important;
+  }
+  .map-image {
+    width: 100%!important;
+    padding-left: 0px!important;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  /* .page-depart-services .maxCard {
+    width: 94%!important;
+  } */
+  .enquiry-feedback-mobile {
+    text-align: center!important;
+  }
+  .covid-table-x-scroll{
+  overflow-x: scroll;
+}
+  .history p {
+    margin-right: 0!important;
+  }
+  .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  .Complaints .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  #special-work .content {
+    padding-left: 25px!important;
+  }
+  #special-work .bullet-small h5 {
+    padding-left: 20px!important;
+  }
+  .bullet-small h5 {
+    padding-left: 0px!important;
+  }
+  .Complaints li:before {
+    left: 4px!important;
+  }
+  .Consumption .maxCard h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption p {
+    padding-left: 30px!important;
+  }
+  .depart-img {
+    text-align: center;
+  }
+  .special-work li:before {
+    margin-left: 20px!important;
+  }
+  .special-work h5 {
+    padding-left: 0px!important;
+  }
+  .bullet-li p {
+    padding-left: 25px!important;
+  }
+  .health-table {
+    margin-left: 25px!important;
+  }
+  .health-page .health-table2 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table3 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table4 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .Consumption h3 {
+    font-size: 1rem!important;
+  }
+  .health-page .history h3 {
+    padding-left: 10px!important;
+  }
+  .legal-cell h6 {
+    padding-left: 0px!important;
+  }
+  .legal-cell-page .legal-cell-table {
+    width: 95% !important;
+    margin-left: 0px!important;
+  }
+  .map-image {
+    width: 100%!important;
+    padding-left: 0px!important;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  /* .page-depart-services .maxCard {
+    width: 94%!important;
+  } */
+  .history p {
+    margin-right: 0!important;
+  }
+  .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  .Complaints .bullet-big-li h3 {
+    padding-left: 15px!important;
+  }
+  #special-work .content {
+    padding-left: 25px!important;
+  }
+  #special-work .bullet-small h5 {
+    padding-left: 20px!important;
+  }
+  .bullet-small h5 {
+    padding-left: 0px!important;
+  }
+  .Complaints li:before {
+    left: 4px!important;
+  }
+  .Consumption .maxCard h3 {
+    font-size: 1rem!important;
+  }
+  .Consumption p {
+    padding-left: 30px!important;
+  }
+  .depart-img {
+    text-align: center;
+  }
+  .special-work li:before {
+    margin-left: 20px!important;
+  }
+  .special-work h5 {
+    padding-left: 0px!important;
+  }
+  .bullet-li p {
+    padding-left: 25px!important;
+  }
+  .health-table {
+    margin-left: 25px!important;
+  }
+  .health-page .health-table2 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table3 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .health-table4 {
+    width: 90%!important;
+    margin-left: 25px!important;
+  }
+  .health-page .Consumption h3 {
+    font-size: 1rem!important;
+  }
+  .health-page .history h3 {
+    padding-left: 10px!important;
+  }
+  .legal-cell h6 {
+    padding-left: 0px!important;
+  }
+  .legal-cell-page .legal-cell-table {
+    width: 95% !important;
+    margin-left: 0px!important;
+  }
+  .map-image {
+    width: 100%!important;
+    padding-left: 0px!important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .council-banner-image {
+    width: 90%;
+  }
+  .council-content h3 {
+    padding-left: 30px;
+  }
+  .council-content p {
+    padding-left: 30px;
+  }
+  .council-content li:before {
+    margin-top: 17px;
+  }
+  .page-council-services {
+    padding: 8px;
+  }
+  .council-page .title-breadcrumb {
+    padding-left: 5.5em;
+  }
+  .volunteer-mob #country-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .volunteer-mob #phone-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .form-check input[type=checkbox] {
+    position: absolute;
+    left: 0px;
+    top: 1.3em;
+  }
+  .Criminal-case {
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .council-banner-image {
+    width: 90%;
+  }
+  .council-content h3 {
+    padding-left: 30px;
+  }
+  .council-content p {
+    padding-left: 30px;
+  }
+  .council-content li:before {
+    margin-top: 17px;
+  }
+  .page-council-services {
+    padding: 8px;
+  }
+  .council-page .title-breadcrumb {
+    padding-left: 5.5em;
+  }
+  .volunteer-mob #country-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .volunteer-mob #phone-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .form-check input[type=checkbox] {
+    position: absolute;
+    left: 0px;
+    top: 1.3em;
+  }
+  .Criminal-case {
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+ /* .tab-news-letter {
+    display: block!important;
+  }*/
+  .table-right {
+    margin-left: 20px!important;
+  }
+  .council-banner-image {
+    width: 90%;
+  }
+  .council-content h3 {
+    padding-left: 30px;
+  }
+  .council-content p {
+    padding-left: 30px;
+  }
+  .council-content li:before {
+    margin-top: 17px;
+  }
+  .page-council-services {
+    padding: 8px;
+  }
+  .council-page .title-breadcrumb {
+    padding-left: 5.5em;
+  }
+  .volunteer-mob #country-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .volunteer-mob #phone-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .form-check input[type=checkbox] {
+    position: absolute;
+    left: 0px;
+    top: 1.3em;
+  }
+  .Criminal-case {
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .council-banner-image {
+    width: 90%;
+  }
+  .council-content h3 {
+    padding-left: 30px;
+  }
+  .council-content p {
+    padding-left: 30px;
+  }
+  .council-content li:before {
+    margin-top: 17px;
+  }
+  .volunteer-mob #country-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .volunteer-mob #phone-code {
+    width: 54px!important;
+  }
+  .volunteer-mob #mobile-num {
+    width: 50%;
+  }
+  .form-check input[type=checkbox] {
+    position: absolute;
+    left: 0px;
+    top: 1.3em;
+  }
+  .Criminal-case {
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .off-electrical h5 {
+    font-size: 15px!important;
+  }
+  .navbar-pic {
+    right: 0px;
+    position: absolute;
+    left: 91%!important;
+    top: 90%!important;
+  }
+  .mobile-sidebar {
+    display: block!important;
+    height: auto;
+    width: 0;
+    position: absolute;
+    z-index: 1;
+    top: 500px;
+    right: 0;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  .left-side-nav .left {
+    display: none;
+  }
+  .elect {
+    display: none;
+  }
+  .line-height {
+    display: none;
+  }
+  .maxCard {
+    background-color: white;
+    margin-bottom: 40px;
+    width: 79%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 15px;
+    padding-bottom: 20px;
+  }
+  .breadcrumb .breadcrumb-item.active a {
+    color: white!important;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .breadcrumb .active {
+  /*  background: url(../images/breadcrump.png);*/
+    background-repeat: no-repeat;
+    height: 40px;
+    border-radius: 0px 10px 13px 0px;
+  }
+  .title-breadcrumb {
+    padding-left: 15px;
+  }
+  .bullet {
+    padding-left: 20px;
+  }
+  .depart h5 {
+    font-size: 13px!important;
+  }
+  .bullet-li p {
+    padding-left: 15px!important;
+  }
+  .solid-page {
+    margin-left: 0!important;
+    width: 100%;
+  }
+  .Street-Lights h3 {
+    padding-left: 30px!important;
+  }
+  .Street-Lights p {
+    padding-left: 30px!important;
+  }
+  .Consumption h3 {
+    padding-left: 30px!important;
+  }
+  .Roles ul {
+    padding-left: 30px!important;
+  }
+  .history ul {
+    padding-left: 30px!important;
+  }
+  .head-subline {
+    margin-left: 10px!important;
+  }
+  .special-work ul {
+    padding-left: 20px;
+  }
+  .maxCard h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .bullet-big h3 {
+    padding-left: 0px;
+  }
+  .bullet-small h5 {
+    padding-left: 0px;
+    font-size: 0.75rem;
+  }
+  .user-pic {
+    width: 50px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: -109px;
+  }
+  .depart {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+  .depart h5 {
+    font-size: 0.75rem;
+  }
+  .history h3 {
+    padding-left: 0px;
+    padding-top: 15px;
+  }
+  .history p {
+    padding-left: 0px;
+  }
+  .Street-Lights h3 {
+    padding-left: 0px;
+    padding-top: 5px;
+  }
+  .Street-Lights p {
+    padding-left: 0px;
+  }
+  .Street-Lights h4 {
+    font-size: 1rem;
+  }
+  .Consumption h3 {
+    padding-left: 0px;
+  }
+  .Consumption p {
+    padding-left: 0px;
+  }
+  .bullet-big-li h3 {
+    padding-left: 0px;
+  }
+  .bullet-li .content {
+    padding-left: 0px!important;
+  }
+  .bullet-li p {
+    padding-left: 0px;
+  }
+  .off-electrical h5 {
+    padding-left: 0px;
+  }
+  .off-electrical {
+    padding-left: 20px;
+  }
+  .Complaints .table {
+    margin-left: 20px;
+    width: 95%;
+  }
+  .container .point-sec {
+    padding-left: 20px;
+  }
+  .role-table {
+    margin-left: 20px;
+  }
+  .special-work li:before {
+    content: '';
+    width: 8px!important;
+    height: 8px!important;
+    border-radius: 50%;
+    background: #175D7B;
+  }
+  .special-work li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 649% !important;
+    background: #EBEBEB;
+    position: absolute;
+    left: -12px;
+    top: 66%;
+  }
+  .Complaints-table th {
+    font-size: 11px;
+  }
+  .Roles th {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .off-electrical h5 {
+    font-size: 10px;
+  }
+  table th {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  table td {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .bullet-big:before {
+    content: '';
+    width: 12px!important;
+    height: 12px!important;
+    border-radius: 50%;
+    background: #175D7B;
+    position: absolute;
+    left: -15px;
+    transform: translateY(-40%);
+  }
+  .bullet-small:before {
+    content: '';
+    width: 8px!important;
+    height: 8px!important;
+    border-radius: 50%;
+    background: #175D7B;
+    position: absolute;
+    left: -15px;
+    transform: translateY(-40%);
+  }
+  .bullet li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 71%;
+    background: #EBEBEB;
+    position: absolute;
+    left: -10px!important;
+    top: 66%;
+  }
+  .left-side-nav .left {
+    display: none;
+  }
+  .elect {
+    display: none;
+  }
+  .maxCard {
+    width: 94%;
+  }
+  .icon-images .propertyicons-diff {
+    width: 35px;
+  }
+  .icon-images .propertyicons {
+    width: 45px;
+  }
+  .breadcrumb .breadcrumb-item {
+    padding-left: .5em;
+    padding-right: .5em;
+  }
+  .paddingTop-line-1 {
+    padding-top: 0px;
+  }
+  /*.page-breadcrumb {
+    margin-top: 6rem;
+  }*/
+  .breadcrumb .breadcrumb-item.active a {
+    color: white!important;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .breadcrumb .active {
+  /*  background: url(../images/breadcrump.png);*/
+    background-repeat: no-repeat;
+    height: 40px;
+    border-radius: 0px 10px 13px 0px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+  .bullet {
+    padding-left: 20px;
+  }
+  /*.bullet-big-li h3 {
+    padding-left: 10px!important;
+  }*/
+  .special-work li:before {
+    margin-left: 20px;
+  }
+  /*.bullet-small h5 {
+    padding-left: 20px!important;
+  }*/
+  .head-subline {
+    padding-left: 30px!important;
+  }
+  .depart h5 {
+    font-size: 13px!important;
+  }
+  .bullet-li p {
+    padding-left: 25px!important;
+  }
+  .solid-page {
+    margin-left: 0!important;
+    width: 100%;
+  }
+  .Street-Lights h3 {
+    padding-left: 30px!important;
+  }
+  .Street-Lights p {
+    padding-left: 30px!important;
+  }
+  .Consumption h3 {
+    padding-left: 30px!important;
+  }
+  .Roles ul {
+    padding-left: 30px!important;
+  }
+  .history ul {
+    padding-left: 30px!important;
+  }
+  .navbar-pic {
+    right: 0px;
+    position: absolute;
+    left: 91%!important;
+    top: 90%!important;
+  }
+  .mobile-sidebar {
+    display: block!important;
+    height: auto;
+    width: 0;
+    position: absolute;
+    z-index: 1;
+    top: 500px;
+    right: 0;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  .maxCard h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .bullet-big h3 {
+    padding-left: 0px;
+  }
+  .bullet-small h5 {
+    padding-left: 0px;
+    font-size: 0.75rem;
+  }
+  .user-pic {
+    width: 50px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: -109px;
+  }
+  .depart {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+  .depart h5 {
+    font-size: 0.75rem;
+  }
+  .history h3 {
+    padding-left: 20px;
+    padding-top: 15px;
+  }
+  .history p {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+  .Street-Lights h3 {
+    padding-left: 20px;
+    padding-top: 5px;
+  }
+  .Street-Lights p {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+  .Street-Lights h4 {
+    font-size: 1rem;
+  }
+  .Consumption h3 {
+    padding-left: 20px;
+  }
+  .Consumption p {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+  .bullet-big-li h3 {
+    padding-left: 0px;
+  }
+  .bullet-li .content {
+    padding-left: 20px!important;
+  }
+  .bullet-li p {
+    padding-left: 0px;
+  }
+  .off-electrical h5 {
+    padding-left: 2 0px;
+  }
+  .off-electrical {
+    padding-left: 20px;
+  }
+  .Complaints .table {
+    margin-left: 20px;
+    width: 95%;
+  }
+  .container .point-sec {
+    padding-left: 20px;
+  }
+  .role-table {
+    margin-left: 20px;
+  }
+  .special-work p {
+    font-size: 14px;
+    padding-left: 20px;
+  }
+  .special-work li:before {
+    content: '';
+    width: 8px!important;
+    height: 8px!important;
+    border-radius: 50%;
+    background: #175D7B;
+  }
+  .special-work li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 500%;
+    background: #EBEBEB;
+    position: absolute;
+    left: -12px;
+    top: 66%;
+  }
+  .Complaints-table th {
+    font-size: 11px;
+  }
+  .Roles th {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .off-electrical h5 {
+    font-size: 10px;
+  }
+  table th {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  table td {
+    font-size: 11px;
+    line-height: 18px;
+  }
+  .bullet li:before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #175D7B;
+    position: absolute;
+    left: -15px;
+    transform: translateY(-40%);
+  }
+  .bullet li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 71%;
+    background: #EBEBEB;
+    position: absolute;
+    left: -12px;
+    top: 66%;
+  }
+  .left-side-nav .left {
+    display: none;
+  }
+  .elect {
+    display: none;
+  }
+  .line-height {
+    display: none;
+  }
+  .maxCard {
+    width: 94%;
+  }
+  .breadcrumb .breadcrumb-item {
+    padding-left: .5em;
+    padding-right: .5em;
+  }
+  .paddingTop-line-1 {
+    /* padding-top: 0px; */
+  }
+  .breadcrumb .breadcrumb-item.active a {
+    color: white!important;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .breadcrumb .active {
+  /*  background: url(../images/breadcrump.png);*/
+   background-repeat: no-repeat;
+    height: 40px;
+    border-radius: 0px 10px 13px 0px;
+    margin-left: auto;
+   
+  
+   /*   background-repeat: no-repeat;
+    height: 40px;
+    border-radius: 0px 10px 13px 0px; */
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .depart h5 {
+    font-size: 13px!important;
+  }
+  .bullet-li p {
+    padding-left: 15px!important;
+  }
+  .solid-page {
+    margin-left: 0!important;
+    width: 92%!important;
+  }
+  .Street-Lights h3 {
+    padding-left: 30px!important;
+  }
+  .Street-Lights p {
+    padding-left: 30px!important;
+  }
+  .Consumption h3 {
+    padding-left: 30px!important;
+  }
+  .Roles ul {
+    padding-left: 30px!important;
+  }
+  .history ul {
+    padding-left: 30px!important;
+  }
+  .head-subline {
+    margin-left: 10px!important;
+  }
+  .navbar-pic {
+    right: 0px;
+    position: absolute;
+    left: 91%!important;
+    top: 90%!important;
+  }
+  .mobile-sidebar {
+    display: block!important;
+    height: auto;
+    width: 0;
+    position: absolute;
+    z-index: 1;
+    top: 500px;
+    right: 0;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  .left-side-nav .left {
+    display: none;
+  }
+  .elect {
+    display: none;
+  }
+  .maxCard h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .bullet-big h3 {
+    padding-left: 0px;
+  }
+  .bullet-small h5 {
+    padding-left: 0px;
+    font-size: 0.75rem;
+  }
+  .user-pic {
+    width: 50px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: -109px;
+  }
+  .depart {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+  .depart h5 {
+    font-size: 0.75rem;
+  }
+  .history h3 {
+    padding-left: 0px;
+    padding-top: 15px;
+  }
+  .history p {
+    padding-left: 0px;
+  }
+  .Street-Lights h3 {
+    padding-left: 0px;
+    padding-top: 5px;
+  }
+  .Street-Lights p {
+    padding-left: 0px;
+  }
+  .Street-Lights h4 {
+    font-size: 1rem;
+  }
+  .Consumption h3 {
+    padding-left: 0px;
+  }
+  .Consumption p {
+    padding-left: 0px;
+  }
+  .bullet-big-li h3 {
+    padding-left: 0px;
+  }
+  .bullet-li .content {
+    padding-left: 0px!important;
+  }
+  .bullet-li p {
+    padding-left: 0px;
+  }
+  .off-electrical h5 {
+    padding-left: 0px;
+  }
+  .off-electrical {
+    padding-left: 20px;
+  }
+  .Complaints .table {
+    margin-left: 20px;
+    width: 95%;
+  }
+  .container .point-sec {
+    padding-left: 20px;
+  }
+  .role-table {
+    margin-left: 20px;
+  }
+  li:before {
+    content: '';
+    width: 8px!important;
+    height: 8px!important;
+    border-radius: 50%;
+    /* background: #175D7B; */
+  }
+  .special-work li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 584%;
+    background: #EBEBEB;
+    position: absolute;
+    left: -12px;
+    top: 58%;
+  }
+  .bullet-big:before {
+    content: '';
+    width: 12px!important;
+    height: 12px!important;
+    border-radius: 50%;
+    background: #175D7B;
+    position: absolute;
+    left: -15px;
+    transform: translateY(-40%);
+  }
+  .bullet-small:before {
+    content: '';
+    width: 8px!important;
+    height: 8px!important;
+    border-radius: 50%;
+    background: #175D7B;
+    position: absolute;
+    left: -15px;
+    transform: translateY(-40%);
+  }
+  .bullet li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 71%;
+    background: #EBEBEB;
+    position: absolute;
+    left: -12px;
+    top: 66%;
+  }
+  #navbar {
+    display: none;
+  }
+  .mobile-breadcrumb {
+    margin-top: 30px;
+    padding: 10px;
+  }
+  .icon-images .propertyicons-diff {
+    width: 35px;
+  }
+  .icon-images .propertyicons {
+    width: 45px;
+  }
+  .page-depart-services .online-service-cards h6 {
+    font-size: 13px!important;
+  }
+  /*.page-breadcrumb {
+    margin-top: 1rem!important;
+  }*/
+  .breadcrumb .breadcrumb-item.active a {
+    color: white!important;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .breadcrumb .active {
+  /*  background: url(../images/breadcrump.png);*/
+    background-repeat: no-repeat;
+    height: 40px;
+    border-radius: 0px 10px 13px 0px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-who-page .tab {
+    width: 100%;
+  }
+  .who-is-who-page .user-pic {
+    width: 50px;
+    margin-top: 9em;
+  }
+  .tabcontent {
+    width: 100%!important;
+  }
+
+ /* .home-top-nav {
+    display: none!important;
+  }*/
+  .bullet {
+    padding-left: 20px!important;
+  }
+  .depart h5 {
+    font-size: 13px!important;
+  }
+  .bullet-li p {
+    padding-left: 25px!important;
+  }
+  .solid-page {
+    margin-left: 0!important;
+    width: 100%;
+  }
+  .line-height {
+    display: none;
+  }
+  .navbar-pic {
+    right: 0px;
+    position: absolute;
+    left: 91%!important;
+    top: 90%!important;
+  }
+  .maxCard .right {
+    padding-left: 0px !important;
+    padding-top: 0px;
+  }
+  .maxCard h3 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .bullet-big h3 {
+    padding-left: 0px;
+  }
+  .bullet-small h5 {
+    padding-left: 0px;
+    font-size: 0.75rem;
+  }
+  .user-pic {
+    width: 50px;
+    float: right;
+    position: absolute;
+    right: 11px;
+    top: -109px;
+  }
+  .depart {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+  .depart h5 {
+    font-size: 0.75rem;
+  }
+  .history h3 {
+    padding-left: 0px;
+    padding-top: 15px;
+  }
+  .history p {
+    padding-left: 0px;
+  }
+  .Street-Lights h3 {
+    padding-left: 0px;
+    padding-top: 5px;
+  }
+  .Street-Lights p {
+    padding-left: 0px;
+  }
+  .Street-Lights h4 {
+    font-size: 1rem;
+  }
+  .Consumption h3 {
+    padding-left: 0px;
+  }
+  .Consumption p {
+    padding-left: 0px;
+  }
+  .bullet-big-li h3 {
+    padding-left: 0px;
+  }
+  .bullet-li .content {
+    padding-left: 10px!important;
+  }
+  .bullet-li p {
+    padding-left: 0px;
+  }
+  .off-electrical h5 {
+    padding-left: 0px;
+  }
+  .off-electrical {
+    padding-left: 20px;
+  }
+  .Complaints .table {
+    margin-left: 20px;
+    width: 95%;
+  }
+  .container .point-sec {
+    padding-left: 20px;
+  }
+  .role-table {
+    margin-left: 20px;
+  }
+  li:before {
+    content: '';
+    width: 8px!important;
+    height: 8px!important;
+    border-radius: 50%;
+    /* background: #175D7B; */
+  }
+  li:not(:last-child):after {
+    display: none;
+  }
+  .bullet li:before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #175D7B;
+    position: absolute;
+    left: -15px;
+    transform: translateY(-40%);
+  }
+  .bullet li:not(:last-child):after {
+    content: '';
+    width: 2px;
+    height: 71%;
+    background: #EBEBEB;
+    position: absolute;
+    left: -12px;
+    top: 66%;
+  }
+  .maxCard .right {
+    padding-left: 0px !important;
+  }
+  .maxCard {
+    background-color: white;
+    margin-bottom: 40px;
+    /* width: 79%; */
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    /* padding-top: 15px; */
+    /* padding-bottom: 20px; */
+  }
+  .home-mobile-nav {
+    display: block !important;
+  }
+  .mobile-breadcrumb {
+    margin-top: 30px;
+    padding: 10px;
+  }
+  .logo-text {
+    font-size: 8px!important;
+    margin-bottom: 0px;
+    color: #ffffffb5;
+    padding-left: 0px;
+  }
+}
+
+@media only screen and (max-width: 375px) and (min-width: 310px) {
+   .breadcrumb-min_height_mob_view {
+    min-height: 100px!important;
+  }
+  .breadcrumb-min_height_mob_view .bc-active {
+   margin-top: 0px!important;
+  }
+  .breadcrumb-min_height_mob_view .active {
+   margin-top: -38px!important;
+  }
+  .mob-padding_space {
+    padding: 0.1rem 0.1rem!important;
+  } 
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .navbar-toggler2 {
+  display: block!important;
+  background: transparent;
+  border: none;
+}
+  .magnifying-glass-mobile {
+    margin-right: -5px !important;
+  }
+  .gallery-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 13px;
+  }
+  .home-sidebar .quick-links-card .more {
+    float: right;
+    margin-top: -2em;
+    font-size: 13px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 300px;
+    border-radius: 6px;
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 1em;
+  }
+  .home-sidebar .quick-links-card .link {
+    color: #000000bf;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: 'lato';
+    font-size: 14px;
+  }
+  .home-sidebar .whats-new-card .link {
+    color: #000000bf;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'lato';
+  }
+  .home-sidebar .quick-links-card ul {
+    list-style: none;
+    padding-left: 2.5em;
+    overflow-y: scroll;
+    height: 378px;
+    max-height: 378px;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 11px;
+    margin-right: -5em;
+    font-size: 13px;
+  }
+  .home-sidebar li {
+    line-height: 1.8;
+    font-size: 15px;
+  }
+  .fixed-top-scroll {
+    /* top: 3.1em; */
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 0px !important;
+  }
+  .service-card {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .logo-text {
+    font-size: 8px!important;
+    margin-bottom: 0px;
+    color: #ffffffb5;
+    padding-left: 0px;
+  }
+  .navbar-expand-md .navbar-toggler {
+    display: block;
+    margin-right: 1em;
+    padding: 5px 7px;
+    font-size: 1em;
+    line-height: 1;
+    background-color: #375d6f;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: white;
+    /* margin-top: 10px; */
+  }
+  .mobile-thiruvalluvar-img {
+    width: 30px;
+    display: none;
+    float: left;
+    /* filter: invert(1); */
+  }
+  .mobile-tamil-font {
+    display: none;
+    color: white;
+    font-size: 7px;
+    /* margin-left: auto; */
+    margin-bottom: 0px;
+    margin-top: 10px;
+    line-height: 10px;
+  }
+  .newsletter-text {
+    font-size: 12px;
+    font-weight: 500;
+    color: black;
+  }
+  .container-width {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+  .magnifying-glass-mobile {
+    margin-right: -5px !important;
+  }
+  .gallery-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 13px;
+  }
+  .home-sidebar .quick-links-card .more {
+    float: right;
+    margin-top: -2em;
+    font-size: 13px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 300px;
+    border-radius: 6px;
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 1em;
+  }
+  .home-sidebar .quick-links-card .link {
+    color: #000000bf;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: 'lato';
+    font-size: 14px;
+  }
+  .home-sidebar .whats-new-card .link {
+    color: #000000bf;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'lato';
+  }
+  .home-sidebar .quick-links-card ul {
+    list-style: none;
+    padding-left: 2.5em;
+    overflow-y: scroll;
+    height: 378px;
+    max-height: 378px;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 11px;
+    margin-right: -5em;
+    font-size: 13px;
+  }
+  .home-sidebar li {
+    line-height: 1.8;
+    font-size: 15px;
+  }
+  .fixed-top-scroll {
+    /* top: 3.1em; */
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 0px !important;
+  }
+  .service-card {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .logo-text {
+    font-size: 8px!important;
+    margin-bottom: 0px;
+    color: #ffffffb5;
+    padding-left: 0px;
+  }
+  .mobile-thiruvalluvar-img {
+    width: 30px;
+    display: none;
+    float: left;
+    /* filter: invert(1); */
+  }
+  .mobile-tamil-font {
+    display: none;
+    color: white;
+    font-size: 7px;
+    /* margin-left: auto; */
+    margin-bottom: 0px;
+    margin-top: 10px;
+    line-height: 10px;
+  }
+  .newsletter-text {
+    font-size: 12px;
+    font-weight: 500;
+    color: black;
+  }
+  .container-width {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 375px) and (min-width: 310px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+  .home-container {
+    width: 100% !important;
+  }
+  .ome-page-main-content-duplicate {
+    padding-top: 1em !important;
+    /* overflow: hidden; */
+  }
+  .topbar .navbar {
+    padding: 0px 0px 0px 10px;
+    height: auto;
+  }
+  .topbar .site-map,
+  .topbar .feedback,
+  .topbar .wheelchair,
+  .topbar .complaint,
+  .topbar .theme-moon,
+  .topbar .font-size {
+    display: none;
+  }
+  .topbar .social-icons {
+    display: contents;
+  }
+  .social-icons .nav-link {
+    padding: 0px 8px 0px 0px;
+    display: flex;
+  }
+  .tamil-mobile-btn {
+    /* margin-right: -30px !important; */
+  }
+  .topbar .language {
+    border-right: 0px solid #ebebeb;
+    height: auto;
+    margin-left: auto;
+    margin-right: 0;
+  }
+  .topbar .language-btn {
+    padding: 4px 12px !important;
+    margin: 0px 0px;
+  }
+  .topbar .login-register {
+    height: auto;
+  }
+  .topbar .login-register-btn {
+    padding: 4px 12px !important;
+    margin: 0px 0px;
+    height: auto;
+  }
+  .dropdown-toggle::after {
+    margin-top: 8px;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+  .mobile-view-btn-fix {
+    margin-top: 15px;
+  }
+  .topbar .navbar {
+    padding: 0px 0px 0px 10px;
+    height: auto;
+  }
+  .topbar .site-map,
+  .topbar .feedback,
+  .topbar .wheelchair,
+  .topbar .complaint,
+  .topbar .theme-moon,
+  .topbar .font-size {
+    display: none;
+  }
+  .topbar .social-icons {
+    display: -webkit-inline-box;
+  }
+  .social-icons .nav-link {
+    padding: 0px 8px 0px 0px;
+    display: flex;
+  }
+  .topbar .english-language {
+    margin-left: 0px !important;
+  }
+  .language-mobile {
+    margin-left: 10px !important;
+  }
+  .topbar .language {
+    border-right: 0px solid #ebebeb;
+    height: auto;
+    margin-left: auto;
+    margin-right: 0;
+  }
+  .topbar .language-btn {
+    padding: 4px 12px !important;
+    margin: 0px 0px;
+  }
+  .topbar .login-register {
+    height: auto;
+  }
+  .topbar .login-register-btn {
+    padding: 4px 12px !important;
+    margin: 0px 0px;
+    height: auto;
+  }
+  .dropdown-toggle::after {
+    margin-top: 8px;
+  }
+}
+@media only screen and (max-width: 599px) and (min-width: 481px) {
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+  }
+  .mobile-view-btn-fix {
+    margin-top: 15px;
+  }
+  
+  .who-is-who-page .user-pic {
+    width: 50px;
+    margin-top: 4em;
+  }
+  .tabcontent {
+    width: 100%!important;
+  }
+  .who-is-who-page .tab {
+    width: 100%;
+  }
+
+  
+}
+@media only screen and (max-width: 680px) and (min-width: 600px) {
+  .mobileview-who-top-padding {
+  padding-top: 3em !important;
+}
+.mobile-who-is-who .who-details h5 {
+  padding-left: 0em!important;
+}
+.mobileview-who-top-padding p{
+  padding-left: 0em!important;
+}
+   .mobile-who-is-who .card-body {
+    overflow-x: scroll;
+  }
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .news-letter-mobile h6 {
+    color: #000!important ;
+  }
+   .news-letter-mobile {
+    display: block!important;
+    padding-bottom: 15px;
+    text-align: -webkit-center;
+  }
+  .mobile-view-btn-fix {
+    margin-top: 15px;
+  }
+ .covid-table-x-scroll{
+  overflow-x: scroll;
+}
+ .who-is-who-page .tab {
+    width: 100%;
+  }
+  .who-is-who-page .user-pic {
+    width: 50px;
+    margin-top: 4em;
+  }
+  .tabcontent {
+    width: 100%!important;
+  }
+  /*.who-is-who-page .tab {
+    width: 100%;
+  }*/
+  .page-title-head {
+    padding-top: 6em;
+    text-align: center;
+  }
+
+  .topbar .navbar {
+    padding: 0px 0px 0px 10px;
+    height: auto;
+  }
+   .topbar .site-map,
+  .topbar .feedback,
+  .topbar .wheelchair,
+/*  .topbar .complaint,*/
+  .topbar .theme-moon,
+  .topbar .font-size {
+    display: block;
+  }
+  .topbar .complaint {
+    display: none;
+  }
+   .font-size {
+    display: flex!important;
+  }
+  .social-icons .nav-link {
+    padding: 0px 8px 0px 0px;
+    display: flex;
+  }
+  .topbar .english-language {
+    margin-left: 0px !important;
+  }
+  .language-mobile {
+    margin-left: 10px !important;
+  }
+  .topbar .language {
+    border-right: 0px solid #ebebeb;
+    height: auto;
+    margin-left: auto;
+    margin-right: 0;
+  }
+  .topbar .language-btn {
+    padding: 4px 12px !important;
+    margin: 0px 0px;
+  }
+  .topbar .login-register {
+    height: auto;
+  }
+  .topbar .login-register-btn {
+    padding: 4px 12px !important;
+    margin: 0px 0px;
+    height: auto;
+  }
+  .dropdown-toggle::after {
+    margin-top: 8px;
+  }
+}
+
+@media only screen and (max-width: 375px) and (min-width: 310px) {
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+}
+  .who-is-who-page .dept-bridge-page {
+    width: 300px!important;
+  }
+  .who-border-line {
+    margin: 2px!important;
+  }
+  .covid-card-carousel {
+    height: 100px !important;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+  .nivar-img {
+    height: 105px !important;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+  .magnifying-glass-mobile {
+    margin-right: -5px !important;
+  }
+  .gallery-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 13px;
+  }
+  .home-sidebar .quick-links-card .more {
+    float: right;
+    margin-top: -2em;
+    font-size: 13px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 300px;
+    border-radius: 6px;
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 1em;
+  }
+  .home-sidebar .quick-links-card .link {
+    color: #000000bf;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: 'lato';
+    font-size: 14px;
+  }
+  .home-sidebar .whats-new-card .link {
+    color: #000000bf;
+    font-size: 13 px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'lato';
+  }
+  .home-sidebar .quick-links-card ul {
+    list-style: none;
+    padding-left: 2.5em;
+    overflow-y: scroll;
+    height: 378px;
+    max-height: 378px;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 11px;
+    margin-right: -5em;
+    font-size: 13px;
+  }
+  .home-sidebar li {
+    line-height: 1.8;
+    font-size: 15px;
+  }
+  .fixed-top-scroll {
+    /* top: 3.1em; */
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  .main-menu {
+    top: 2rem;
+  }
+  .fixed-top-scroll {
+    top: 1.94em;
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  #navbar.navbar {
+    padding: 0px;
+    padding-left: 0px !important;
+  }
+  .service-card {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .logo-text {
+    font-size: 8px!important;
+    margin-bottom: 0px;
+    color: #ffffffb5;
+    padding-left: 0px;
+  }
+  .navbar-expand-md .navbar-toggler {
+    display: block;
+    margin-right: 1em;
+    padding: 5px 7px;
+    font-size: 1em;
+    line-height: 1;
+    background-color: #375d6f;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: white;
+    /* margin-top: 10px; */
+  }
+  .mobile-thiruvalluvar-img {
+    width: 30px;
+    display: none;
+    float: left;
+    /* filter: invert(1); */
+  }
+  .mobile-tamil-font {
+    display: none;
+    color: white;
+    font-size: 7px;
+    /* margin-left: auto; */
+    margin-bottom: 0px;
+    margin-top: 10px;
+    line-height: 10px;
+  }
+  .navbar-brand img {
+    width: 35px !important;
+  }
+  .newsletter-text {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: black;
+  }
+  .container-width {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .covid-card-carousel {
+    height: 100px !important;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+  .nivar-img {
+    height: 105px !important;
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+  .gallery-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 13px;
+  }
+  .home-sidebar .quick-links-card .more {
+    float: right;
+    margin-top: -2em;
+    font-size: 13px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 300px;
+    border-radius: 6px;
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 1em;
+  }
+  .home-sidebar .quick-links-card .link {
+    color: #000000bf;
+    text-decoration: underline;
+    font-weight: 600;
+    font-family: 'lato';
+    font-size: 14px;
+  }
+  .home-sidebar .whats-new-card .link {
+    color: #000000bf;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'lato';
+  }
+  .home-sidebar .quick-links-card ul {
+    list-style: none;
+    padding-left: 2.5em;
+    overflow-y: scroll;
+    height: 378px;
+    max-height: 378px;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    margin-top: -0.75em;
+    font-size: 11px;
+    margin-right: -5em;
+    font-size: 13px;
+  }
+  .home-sidebar li {
+    line-height: 1.8;
+    font-size: 15px;
+  }
+  .main-menu {
+    top: 2rem;
+  }
+  .fixed-top-scroll {
+    top: 1.94em;
+    background-color: rgb(21, 69, 93);
+    box-shadow: none;
+  }
+  .service-card {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 13px;
+  }
+  .navbar-expand-md .navbar-toggler {
+    display: block;
+    margin-right: 1em;
+    padding: 5px 7px;
+    font-size: 1em;
+    line-height: 1;
+    background-color: #375d6f;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    color: white;
+  }
+  .mobile-thiruvalluvar-img {
+    width: 30px;
+    display: none;
+    float: left;
+    /* filter: invert(1); */
+  }
+  .mobile-tamil-font {
+    display: none;
+    color: white;
+    font-size: 7px;
+    /* margin-left: auto; */
+    margin-bottom: 0px;
+    margin-top: 10px;
+    line-height: 10px;
+  }
+  .navbar-brand img {
+    width: 35px !important;
+  }
+  .newsletter-text {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: black;
+  }
+  .container-width {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 376px) and (min-width: 310px) {
+   .desktop-who-is-who{
+    display: none;
+  }
+  .mobile-who-is-who {
+  display: block!important;
+} 
+  .card-tiles {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+  .home-page-banner-duplicate {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 225px !important;
+  }
+  .home-banner-content {
+    position: relative;
+    width: 100%;
+    color: black;
+    top: 17rem;
+    left: 3rem;
+    z-index: 1;
+  }
+  .home-banner-content .col {
+    padding: 0px;
+  }
+  .empty-space {
+    display: none;
+  }
+  .newsletter-text {
+    font-size: 12px;
+    display: inline-flex;
+    float: left;
+    margin-right: 1em;
+  }
+  .home-banner-click-here-btn {
+    background-color: #2d5f76;
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+    display: block;
+    padding: 4px 10px;
+    margin-left: 0em;
+    border: 1px solid #2d5f76;
+    border-radius: 6px;
+    margin-top: -0.5em;
+  }
+  .thirukural {
+    display: none;
+  }
+  .home-page-main-content {
+    padding-top: 7em;
+    overflow: hidden;
+  }
+  .service-card .card {
+    width: 100%;
+    height: 95px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+  .service-card img {
+    width: 100%;
+    height: auto;
+    margin-top: -1em;
+  }
+  .service-card .card .card-body {
+    padding: 0.5em;
+  }
+  .service-card .card h5 {
+    padding: 10px 0px;
+    font-size: 12px;
+  }
+  .covid-card .covid-image {
+    width: 100%;
+    height: auto;
+    margin-top: -2.5em;
+    transform: scale(1);
+  }
+  .medical-service {
+    margin-top: -1.5em !important;
+  }
+  .home-page p {
+    font-size: 14px;
+  }
+  .mobile-gallery {
+    display: block !important;
+    margin-bottom: 1em;
+  }
+  .gallery-card {
+    position: relative;
+    z-index: 999;
+    height: auto !important;
+    /*max-height: 236px !important;*/
+    display: none;
+  }
+  .gallery-card table {
+    width: 100%;
+    display: block;
+  }
+  .gallery-card table tbody {
+    display: block;
+    width: 100%;
+  }
+  .gallery-card table tr {
+    display: table;
+    width: 100%;
+  }
+  .gallery-card table tr td {
+    display: table-caption;
+  }
+  .gallery-card img {
+    height: 175px;
+    width: 100%;
+  }
+  .gallery-img {
+    width: 100%;
+  }
+  .gallery-content {
+    width: 100%;
+  }
+  .gallery-card p {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+  }
+  .gallery-card .more {
+    float: right;
+    margin-top: -16px;
+    font-size: 11px;
+  }
+  .home-sidebar {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .home-sidebar .card h5 {
+    padding: 5px 0px;
+    color: #175D7B;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .home-sidebar li {
+    line-height: 1.8;
+    font-size: 13px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 275px;
+    border-radius: 6px;
+    max-height: 275px;
+    overflow: hidden;
+    margin-bottom: 1em;
+  }
+  .whats-new-card .card-body {
+    padding: 0.5rem;
+  }
+  .home-sidebar .whats-new-card ul {
+    list-style: none;
+    max-height: 200px;
+    overflow: hidden;
+    margin-left: -25px;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    margin-top: -2em;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    /* margin-top: -1em; */
+    font-size: 11px;
+  }
+  .home-sidebar .quick-links-card {
+    width: 100%;
+    height: 450px;
+    max-height: 450px;
+    border-radius: 6px;
+    margin-bottom: 1em;
+  }
+  .home-sidebar .quick-links-card ul {
+    list-style: none;
+    padding-left: 1em;
+    overflow-y: scroll;
+    height: 378px;
+    max-height: 378px;
+  }
+  .home-sidebar .quick-links-card .card-body {
+    padding: 0.5em;
+  }
+  .home-sidebar .quick-links-card .more {
+    float: right;
+    /* margin-top: -3em; */
+    font-size: 11px;
+    margin-right: 20px;
+  }
+  .home-other-services img {
+    margin-bottom: 1em;
+    height: 45px;
+  }
+  .home-other-services {
+    padding-bottom: 0;
+  }
+  .carousel-indicators {
+    bottom: -2em;
+  }
+  .gallery-card p {
+    margin-top: 1em !important;
+  }
+  .footer-left-img {
+    display: none;
+  }
+  .footer-right-img {
+    display: none;
+  }
+  .page-footer .container {
+    background: url('../images/footer-silhouette-left.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /*padding-bottom: 2em;*/
+  }
+  .footer-column {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  .footer-container .footer-link {
+    padding-right: 0.3em;
+    font-size: 13px;
+  }
+  .footer-text {
+    padding: 0.5em 1em;
+    font-size: 13px;
+  }
+  .footer-web-phone-address {
+    padding: 0.5em;
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .mobile-view-btn-fix{
+    margin-top: 10px!important;
+  }
+  .card-tiles {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+  .home-page-banner {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 225px;
+  }
+  .home-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 100%;
+    padding-top: 6em;
+    transform: scale(0.9);
+  }
+  .home-banner-content {
+    position: relative;
+    width: 100%;
+    color: black;
+    top: 17.5rem;
+    left: 3rem;
+    z-index: 1;
+  }
+  /* .home-banner-content .col {
+    padding: 0px;
+  } */
+  .empty-space {
+    display: none;
+  }
+  .newsletter-text {
+    font-size: 12px;
+    display: inline-flex;
+    float: left;
+    margin-right: 1em;
+  }
+  .home-banner-click-here-btn {
+    background-color: #2d5f76;
+    color: white;
+    font-weight: 700;
+    font-size: 12px;
+    display: block;
+    padding: 4px 10px;
+    margin-left: 0em;
+    border: 1px solid #2d5f76;
+    border-radius: 6px;
+    margin-top: -0.5em;
+  }
+  .thirukural {
+    display: none;
+  }
+  .home-page-main-content {
+    padding-top: 7em;
+    overflow: hidden;
+  }
+  .service-card .card {
+    width: 100%;
+    height: 95px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 #d9e1ed, 0 6px 20px 0 #d9e1ed;
+  }
+  .service-card img {
+    width: 100%;
+    height: auto;
+    margin-top: -1em;
+  }
+  .service-card .card .card-body {
+    padding: 0.5em;
+  }
+  .service-card .card h5 {
+    padding: 10px 0px;
+    font-size: 12px;
+  }
+  .covid-card .covid-image {
+    width: 100%;
+    height: auto;
+    margin-top: -2.5em;
+    transform: scale(1);
+  }
+  .medical-service {
+    margin-top: -1.5em !important;
+  }
+  .home-page p {
+    font-size: 14px;
+  }
+  .mobile-gallery {
+    display: block !important;
+    margin-bottom: 1em;
+  }
+  .gallery-card {
+    position: relative;
+    z-index: 999;
+    height: auto !important;
+    /*max-height: 236px !important;*/
+    display: none;
+  }
+  .gallery-card table {
+    width: 100%;
+    display: block;
+  }
+  .gallery-card table tbody {
+    display: block;
+    width: 100%;
+  }
+  .gallery-card table tr {
+    display: table;
+    width: 100%;
+  }
+  .gallery-card table tr td {
+    display: table-caption;
+  }
+  .gallery-card img {
+    height: 175px;
+    width: 100%;
+  }
+  .gallery-img {
+    width: 100%;
+  }
+  .gallery-content {
+    width: 100%;
+  }
+  .gallery-card p {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+  }
+  .gallery-card .more {
+    float: right;
+    margin-top: -16px;
+    font-size: 11px;
+  }
+  .home-sidebar {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .home-sidebar .card h5 {
+    padding: 5px 0px;
+    color: #175D7B;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .home-sidebar li {
+    line-height: 1.8;
+    font-size: 13px;
+  }
+  .home-sidebar .whats-new-card {
+    width: 100%;
+    height: 275px;
+    border-radius: 6px;
+    max-height: 275px;
+    overflow: hidden;
+    margin-bottom: 1em;
+  }
+  .whats-new-card .card-body {
+    padding: 0.5rem;
+  }
+  .home-sidebar .whats-new-card ul {
+    list-style: none;
+    max-height: 200px;
+    overflow: hidden;
+    margin-left: -25px;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    margin-top: -2em;
+    margin-right: -10em;
+  }
+  .home-sidebar .whats-new-card .more {
+    float: right;
+    /* margin-top: -1em; */
+    font-size: 11px;
+  }
+  .home-sidebar .quick-links-card {
+    width: 100%;
+    height: 450px;
+    max-height: 450px;
+    border-radius: 6px;
+    margin-bottom: 1em;
+  }
+  .home-sidebar .quick-links-card ul {
+    list-style: none;
+    padding-left: 1em;
+    overflow-y: scroll;
+    height: 378px;
+    max-height: 378px;
+  }
+  .home-sidebar .quick-links-card .card-body {
+    padding: 0.5em;
+  }
+  .home-sidebar .quick-links-card .more {
+    float: right;
+    /* margin-top: -3em; */
+    font-size: 11px;
+    margin-right: 20px;
+  }
+  .home-other-services img {
+    margin-bottom: 1em;
+    height: 45px;
+  }
+  .home-other-services {
+    padding-bottom: 0;
+  }
+  .carousel-indicators {
+    bottom: -2em;
+  }
+  .gallery-card p {
+    margin-top: 1em !important;
+  }
+  .footer-left-img {
+    display: none;
+  }
+  .footer-right-img {
+    display: none;
+  }
+  .page-footer .container {
+    background: url('../images/footer-silhouette-left.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /*padding-bottom: 2em;*/
+  }
+  .footer-column {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  .footer-container .footer-link {
+    padding-right: 0.3em;
+    font-size: 13px;
+  }
+  .footer-text {
+    padding: 0.5em 1em;
+    font-size: 13px;
+  }
+  .footer-web-phone-address {
+    padding: 0.5em;
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 375px) and (min-width: 310px) {
+  .OS-bread {
+    position: initial !important;
+  }
+  .contaainer-width {
+    width: 100% !important;
+  }
+  .container-wiidth {
+    width: 100%;
+  }
+  .online-services-heading {
+    padding-top: 8em;
+    padding-left: 7em;
+    color: #ffffffc9;
+    font-size: 16px;
+  }
+  .home-page-banner {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 335px;
+  }
+  .page-breadcrumb {
+    background: #ebf1fa;
+    /* margin-top: 4rem; */
+    z-index: 1020;
+    margin-top: 1.5em;
+    margin-left: 0px;
+  }
+  .os-tile-right-img img {
+    height: 69px;
+    width: 100%;
+    padding-left: 0px;
+  }
+  .page-online-services .online-service-cards .card {
+    height: 70px;
+    margin-bottom: 1em;
+    border-radius: 8px;
+    /*margin-right: 50px;*/
+  }
+  .online-service-card {
+    padding-top: 30px !important;
+    padding-left: 0px !important;
+    padding-right: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .OS-bread {
+    position: initial !important;
+  }
+  .contaainer-width {
+    width: 100% !important;
+  }
+  .page-breadcrumb ol.breadcrumb {
+    margin-top: 20px;
+  }
+  .container-wiidth {
+    width: 100%;
+  }
+  .online-services-heading {
+    padding-top: 8em;
+    padding-left: 7em;
+    color: #ffffffc9;
+    font-size: 16px;
+  }
+  .home-mobile-image {
+    padding-top: 5em !important;
+  }
+  .home-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 100%;
+    padding-top: 3.5em;
+    transform: scale(0.9);
+  }
+  .home-page-banner {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 355px;
+  }
+  .page-breadcrumb {
+    background: #ebf1fa;
+    /* margin-top: 4rem; */
+    z-index: 1020;
+    margin-top: 1.5em;
+    margin-left: 0px;
+  }
+  .os-tile-right-img img {
+    height: 69px;
+    width: 100%;
+    padding-left: 0px;
+  }
+  .page-online-services .online-service-cards .card {
+    height: 70px;
+    margin-bottom: 1em;
+    border-radius: 8px;
+  }
+  .online-service-card {
+    padding-top: 30px !important;
+    padding-left: 0px !important;
+    padding-right: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 360px) and (min-width: 310px) {
+  .icon-images {
+    width: 70%;
+    /* text-align: right; */
+    /* margin-right: -10px; */
+    margin-left: 0.55em;
+  }
+  .maxCard {
+    width: 100% !important;
+  }
+  .online-payment {
+    width: 50% !important;
+    margin-right: 0px;
+  }
+  .online-service-cards {
+    padding: 0px;
+  }
+  .online-payment-service {
+    padding: 9px !important;
+  }
+  .onlinePayment {
+    padding: 10px !important;
+  }
+  .online-service-cards .propertyicons-diff {
+    padding-top: 8px;
+    width: 70%;
+    padding-right: 8px;
+  }
+}
+
+@media only screen and (max-width: 375px) and (min-width: 370px) {
+  .icon-images {
+    width: 70%;
+    /* text-align: right; */
+    /* margin-right: -10px; */
+    margin-left: 0.55em;
+  }
+  .maxCard {
+    width: 100% !important;
+  }
+  .online-payment {
+    width: 50% !important;
+    margin-right: 0px;
+  }
+  .online-service-cards {
+    padding: 0px;
+  }
+  .online-payment-service {
+    padding: 9px !important;
+  }
+  .online-service-cards .propertyicons-diff {
+    padding-top: 8px;
+    width: 70%;
+    padding-right: 8px;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .icon-images {
+    width: 70%;
+    /* text-align: right; */
+    /* margin-right: -10px; */
+    margin-left: 0.55em;
+  }
+  .maxCard {
+    width: 100% !important;
+  }
+  .online-payment {
+    width: 50% !important;
+    margin-right: 0px;
+  }
+  .online-service-cards {
+    padding: 0px;
+  }
+  .online-service-cards .propertyicons-diff {
+    padding-top: 8px;
+    width: 70%;
+    padding-right: 8px;
+  }
+}
+
+@media only screen and (max-width: 380px) and (min-width: 300px) {
+  .card-space {
+    padding-top: 20px;
+    padding-left: 25px;
+  }
+  .containterr-width {
+    width: 100%;
+    padding-right: 15px;
+  }
+  .container-mobile {
+    padding-left: 13px !important;
+  }
+  .card-space-right {
+    padding-top: 0px;
+    padding-right: 29px;
+    padding-bottom: 11px;
+  }
+  .form-card {
+    padding-left: 20px;
+  }
+  .zone-select {
+    margin-bottom: 15px;
+  }
+  .breadcrumb .OS {
+    display: none;
+  }
+  .online-services-heading {
+    padding-top: 8em;
+    padding-left: 7em;
+    color: #ffffffc9;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .card-space {
+    padding-top: 20px;
+    padding-left: 25px;
+  }
+  .containterr-width {
+    width: 100%;
+    padding-right: 15px;
+  }
+  .container-mobile {
+    padding-left: 13px !important;
+  }
+  .card-space-right {
+    padding-top: 0px;
+    padding-right: 29px;
+    padding-bottom: 11px;
+  }
+  .form-card {
+    padding-left: 20px;
+  }
+  .zone-select {
+    margin-bottom: 15px;
+  }
+  .breadcrumb .OS {
+    display: none;
+  }
+  .online-services-heading {
+    padding-top: 8em;
+    /* padding-left: 6em; */
+    color: #ffffffc9;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 380px) and (min-width: 300px) {
+  .container-widdth {
+    width: 90% !important;
+  }
+  .professional-tax-card {
+    padding: 1em;
+  }
+  .tax-card {
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    /* padding-top: 20px; */
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .container-widdth {
+    width: 92% !important;
+  }
+  .professional-tax-card {
+    padding: 1em;
+  }
+  .tax-card {
+    padding-bottom: 10px;
+    padding-right: 0px;
+    padding-left: 0px;
+    /* padding-top: 20px; */
+  }
+}
+
+@media only screen and (max-width: 380px) and (min-width: 300px) {
+  .mobile-fix {
+    padding-right: 30px!important;
+    padding-left: 20px!important;
+  }
+  .page-online-services .online-service-cards .tiles-townPlanning {
+    height: 50px;
+  }
+  .marginBottom-town-tile-6 {
+    height: 70px !important;
+  }
+  .marginBottom-town-tile-6 {
+    margin-bottom: 0.55em !important;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .location-tree{
+    padding: 20px!important;
+  }
+  .form-page-br-fixes {
+    margin-left: 20px!important;
+  }
+  .mobile-fix {
+    padding-right: 30px!important;
+    padding-left: 20px!important;
+  }
+  .page-online-services .online-service-cards .tiles-townPlanning {
+    height: 50px;
+  }
+  .marginBottom-town-tile-6 {
+    margin-bottom: 0.55em !important;
+  }
+}
+
+@media only screen and (max-width: 380px) and (min-width: 300px) {
+  .container-widtth {
+    width: 100% !important;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .zone-card {
+    border: 1px solid #fff;
+    padding: 2em;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .image-padding-0 {
+    padding-left: 0px !important;
+  }
+  .card-height {
+    width: 100%;
+  }
+  .trade-heading {
+    padding-top: 8em;
+    padding-left: 6.5em;
+    color: #ffffffc9;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .container-widtth {
+    width: 100% !important;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .zone-card {
+    border: 1px solid #fff;
+    padding: 2em;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .image-padding-0 {
+    padding-left: 0px !important;
+  }
+  .card-height {
+    width: 100%;
+  }
+  .trade-heading {
+    padding-top: 8em;
+    padding-left: 8em;
+    color: #ffffffc9;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 380px) and (min-width: 300px) {
+
+  .home-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 100%;
+    padding-top: 6em;
+    transform: scale(0.9);
+  }
+  .home-mobile-image {
+    padding-top: 3.7em !important;
+  }
+  .mobile-btn {
+    color: white;
+  }
+  .public-griv {
+    width: 120% !important;
+    margin-top: -3.8em !important;
+    margin-left: -1em !important;
+  }
+  #navTitle-onlinePublicGrievance {
+    padding-top: 0px !important;
+  }
+  .tab-tile-1 {
+    margin-top: -1.3em !important;
+  }
+  /*/////////////////////////// OS landing page ///////////////////////*/
+  .OS-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 120% !important;
+    padding-top: 1.7em !important;
+    transform: scale(0.9);
+    margin-left: -3em !important;
+  }
+  /*///////////////////////////// Latest news letter ///////////////////*/
+  .banner-title {
+    padding-left: 6.5em !important;
+    padding-top: 7em !important;
+  }
+  .common-BC {
+    display: none;
+  }
+  .council-page .title-breadcrumb {
+    padding-left: 7em;
+  }
+  .latest-news li::before {
+    left: -30px;
+  }
+  .latest-news p {
+    /* padding-left: 20px; */
+    padding-right: 20px;
+  }
+  /* ///////////////About GCC ///////////////*/
+  .online-service-cards {
+    padding: 5px 65px 0px 5px;
+  }
+  .aboutGCC-tile-heading {
+    padding: 10px 10px 10px 20px;
+  }
+  .about-chennai-title {
+    font-size: 20px;
+  }
+  .OS-banner-image {
+    padding-top: 0.5em !important;
+  }
+  /*/////////////////////////////////// About GCC Sub-pages/////////////////// */
+  .common-nav {
+    display: none;
+  }
+  .common-container {
+    padding: 0px !important;
+  }
+  .about-GCC-mobile {
+    margin-bottom: -30px;
+  }
+  /* /////////////////////////////////Brief-notes-GCC /////////////////////////*/
+  .abt-details p {
+    padding-right: 10px;
+  }
+  .about-chennai-title1 {
+    padding-bottom: 0px !important;
+  }
+  /*/////////////////////////////////// ORG-Chart //////////////////////////////*/
+  .about-chennai-title2 {
+    margin-bottom: -40px!important;
+  }
+  /* ///////////////////////////Photo Gallery ///////////////////////*/
+  .about-chennai-active-BC {
+    background-color: #175D7B !important;
+  }
+  /* ////////////////////////department landing page /////////////////////*/
+  .breadcrumb li {
+    position: inherit !important;
+  }
+  .home-containerr {
+    /* padding-right: 5px; */
+    width: 100% !important;
+  }
+  .common-heading-1 {
+    padding-left: 6.5em !important;
+  }
+  .common-image-1 {
+    margin-left: -2.5em !important;
+  }
+  .history ul {
+    /* padding-left: 0px; */
+    margin-bottom: 0em !important;
+  }
+  /*////////////////////////// gallery//////////////////////////////// */
+  .gallery-page-height {
+    height: 335px!important;
+  }
+  .mobile-video {
+    padding-bottom: 20px;
+  }
+  .common-title-3 {
+    padding-top: 7.3em !important;
+  }
+  /*//////////////////////////////////// Council //////////////////////*/
+  .council-page-banner {
+    height: 110px !important;
+  }
+  .BC-Common {
+    padding-left: 0.5em !important;
+  }
+  .BC-common-1 {
+    margin-bottom: -9px;
+  }
+  /*////////////////////////////////////// tenders ////////////////////*/
+  .common-title-4 {
+    padding-left: 8em !important;
+  }
+  .tender-page .page-breadcrumb {
+    margin-left: 0em;
+    margin-bottom: 0.1em;
+  }
+  .common-btn {
+    margin-left: 6.5em;
+    margin-top: 30px;
+    margin-bottom: -20px;
+  }
+  .mobile-view {
+    padding-left: 35px;
+  }
+  .department-mobile-view {
+    padding-left: 15px!important;
+  }
+  .tender-page-main .zone-card {
+    padding: 0em;
+  }
+  .medical-service-page {
+    padding: 0px;
+  }
+  .mobile-view-OS {
+    display: none !important;
+  }
+  .tender-page {
+    margin-bottom: -10px;
+  }
+  .BC-breadCrumb-common {
+    padding-left: 0.75em !important;
+  }
+  .tender-bulletin-tile {
+    margin-top: 0px !important;
+  }
+  .card-HT {
+    margin-bottom: 2em;
+  }
+  /* ////////////////////////rules and tax assessment /////////////////////*/
+  .common-1 {
+    display: none;
+  }
+  .common-rules {
+    display: block;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .common-paragraph {
+    padding: 20px !important;
+  }
+  .town-heading {
+    padding-left: 5em !important;
+    padding-top: 7em;
+  }
+  .town-image {
+    padding-top: 3em !important;
+  }
+  .uphc-page {
+    padding-left: 10px !important;
+  }
+  .medical-common {
+    margin-bottom: 20px !important;
+  }
+  .common-title-bar {
+    padding: 1.2em !important
+  }
+  /*///////////////////////////////// Scheme/////////// */
+  .scheme-banner-image {
+    position: absolute;
+    top: 10em;
+    width: 100%;
+    transform: scale(0.92);
+    left: 0em;
+  }
+  .scheme-title {
+    padding-left: 9.5em !important;
+  }
+  .Swach-bharat-container {
+    padding-right: 0em;
+    padding-left: 0em;
+    padding-bottom: 0em;
+  }
+  .Swach-bharat h2 {
+    padding-left: 3.5em;
+  }
+  /*//////////////////////// right to info act //////////////////////*/
+  .right-to-info {
+    padding-left: 1em !important;
+  }
+  .back-btn-act {
+    padding-right: 1.2em;
+    padding-bottom: 1em;
+  }
+  /*/////////////////////////////// rules and procedure ////////////////*/
+  .page-profesional-tax {
+    padding-top: 1em !important;
+  }
+  .back-button {
+    padding-bottom: 0px !important;
+  }
+  .rule-pro-container {
+    width: 92% !important;
+  }
+  .zone-details {
+    padding-left: inherit;
+  }
+}
+
+@media only screen and (max-width: 480px) and (min-width: 400px) {
+  .home-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 100%;
+    padding-top: 6em;
+    transform: scale(0.9);
+  }
+  .home-mobile-image {
+    padding-top: 3.7em !important;
+  }
+  .home-container {
+    width: 100% !important;
+  }
+  .home-page-banner-duplicate {
+    background: url(../images/home-banner-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px !important;
+  }
+  .ome-page-main-content-duplicate {
+    padding-top: 1em !important;
+    overflow: hidden;
+  }
+  .public-griv {
+    width: 120% !important;
+    margin-top: -3.8em !important;
+    margin-left: -1em !important;
+  }
+  #navTitle-onlinePublicGrievance {
+    padding-top: 0px !important;
+  }
+  .tab-tile-1 {
+    margin-top: -1.3em !important;
+  }
+  /*/////////////////////////// OS landing page ///////////////////////*/
+  .OS-banner-image {
+    position: inherit;
+    /* top: initial; */
+    width: 120% !important;
+    padding-top: 1.5em !important;
+    transform: scale(0.9);
+    margin-left: -3em !important;
+  }
+  /*///////////////////////////// Latest news letter ///////////////////*/
+  .banner-title {
+    padding-left: 6.5em !important;
+    padding-top: 7em !important;
+  }
+  .common-BC {
+    display: none;
+  }
+  .council-page .title-breadcrumb {
+    padding-left: 7em;
+  }
+  .latest-news li::before {
+    left: -30px;
+  }
+  .latest-news p {
+    /* padding-left: 20px; */
+    padding-right: 20px;
+  }
+  /* ///////////////About GCC ///////////////*/
+  .online-service-cards {
+    padding: 5px 50px 0px 5px;
+  }
+  .aboutGCC-tile-heading {
+    /* padding: 10px 10px 10px 20px; */
+  }
+  .about-chennai-title {
+    font-size: 20px;
+  }
+  .OS-banner-image {
+    padding-top: 0.5em !important;
+  }
+  /*/////////////////////////////////// About GCC Sub-pages/////////////////// */
+  .common-nav {
+    display: none;
+  }
+  .common-container {
+    padding: 0px !important;
+  }
+  .about-GCC-mobile {
+    margin-bottom: -30px;
+  }
+  .paddingTop-line-1 {
+    padding-top: 6px;
+  }
+  /* /////////////////////////////////Brief-notes-GCC /////////////////////////*/
+  .abt-details p {
+    padding-right: 10px;
+  }
+  .about-chennai-title1 {
+    padding-bottom: 0px !important;
+  }
+  /*/////////////////////////////////// ORG-Chart //////////////////////////////*/
+  .about-chennai-title2 {
+    margin-bottom: -40px!important;
+  }
+  /* ////////////////////////department landing page /////////////////////*/
+  .breadcrumb li {
+    position: inherit !important;
+  }
+  .home-containerr {
+    /* padding-right: 5px; */
+    width: 100% !important;
+  }
+  .common-heading-1 {
+    padding-left: 6.5em !important;
+  }
+  .common-image-1 {
+    margin-left: -2.5em !important;
+  }
+  .history ul {
+    /* padding-left: 0px; */
+    margin-bottom: 0em !important;
+  }
+  /*////////////////////////// gallery//////////////////////////////// */
+  .gallery-page-height {
+    height: 335px!important;
+  }
+  .mobile-video {
+    padding-bottom: 20px;
+  }
+  .common-title-3 {
+    padding-top: 6em !important;
+  }
+  .about-chennai-active-BC {
+    background-color: #175D7B !important;
+  }
+  /*//////////////////////////////////// Council //////////////////////*/
+  .council-page-banner {
+    height: 80px !important;
+  }
+  .BC-Common {
+    padding-left: 0.5em !important;
+  }
+  .BC-common-1 {
+    margin-bottom: -9px;
+  }
+  /*////////////////////////////////////// tenders ////////////////////*/
+  .common-title-4 {
+    padding-left: 8em !important;
+  }
+  .tender-page .page-breadcrumb {
+    margin-left: 0em;
+    margin-bottom: 0.1em;
+  }
+  .common-btn {
+    margin-left: 6.5em;
+    margin-top: 30px;
+    margin-bottom: -20px;
+  }
+  /* .mobile-view {
+    padding-left: 35px;
+  } */
+  .tender-page-main .zone-card {
+    padding: 0em;
+  }
+  .medical-service-page {
+    padding: 0px;
+  }
+  .mobile-view-OS {
+    display: none !important;
+  }
+  .tender-page {
+    margin-bottom: -10px;
+  }
+  .BC-breadCrumb-common {
+    padding-left: 0.75em !important;
+  }
+  .tender-bulletin-tile {
+    margin-top: 0px !important;
+  }
+  .card-HT {
+    margin-bottom: 2em;
+  }
+  /* ////////////////////////rules and tax assessment /////////////////////*/
+  .common-1 {
+    display: none;
+  }
+  .common-rules {
+    display: block;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .common-paragraph {
+    padding: 20px !important;
+  }
+  .town-heading {
+    padding-left: 5em !important;
+    padding-top: 7em;
+  }
+  .town-image {
+    padding-top: 3em !important;
+  }
+  .uphc-page {
+    padding-left: 18px !important;
+  }
+  .medical-common {
+    margin-bottom: 20px !important;
+  }
+  .common-title-bar {
+    padding: 1.2em !important
+  }
+  /*///////////////////////////////// Scheme/////////// */
+  .scheme-banner-image {
+    position: absolute;
+    top: 10em;
+    width: 100%;
+    transform: scale(0.92);
+    left: 0em;
+  }
+  .scheme-title {
+    padding-left: 9.5em !important;
+  }
+  /*///////////// swatch bharath ////////////////////////*/
+  .Swach-bharat-container {
+    padding-right: 0em;
+    padding-left: 0em;
+    padding-bottom: 0em;
+  }
+  .Swach-bharat h2 {
+    padding-left: 3.5em;
+  }
+  /*//////////////////////// right to info act //////////////////////*/
+  .right-to-info {
+    padding-left: 1.5em !important;
+  }
+  .back-btn-act {
+    padding-right: 1.2em;
+    padding-bottom: 1em;
+  }
+  /*/////////////////////////////// rules and procedure ////////////////*/
+  .page-profesional-tax {
+    padding-top: 1em !important;
+  }
+  .back-button {
+    padding-bottom: 0px !important;
+  }
+  .rule-pro-container {
+    width: 92% !important;
+  }
+  .zone-details {
+    padding-left: inherit;
+  }
+}

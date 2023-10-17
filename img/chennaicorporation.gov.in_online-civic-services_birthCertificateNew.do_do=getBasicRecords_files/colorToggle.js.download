@@ -1,0 +1,61 @@
+
+
+$('#protanopia').on('click', function () {
+  $('.theme-container').removeClass('deuteranopia');
+  $('.theme-container').addClass('protanopia');
+  Cookies.set('body_color', 'protanopia');
+});
+
+// Get Cookie
+var body_color = Cookies.get('body_color');
+
+// Cookie Exists
+if (body_color) {
+  $('.theme-container').addClass(body_color);
+}
+// Cookie Doesn't Exist
+else {
+  $('.theme-container').removeClass(body_color);
+}
+
+
+$('#deuteranopia').on('click', function () {
+  $('.theme-container').removeClass('protanopia');
+  $('.theme-container').addClass('deuteranopia');
+  Cookies.set('body_color', 'deuteranopia');
+});
+
+// Get Cookie
+var body_color = Cookies.get('body_color');
+
+// Cookie Exists
+if (body_color) {
+  $('.theme-container').addClass(body_color);
+}
+// Cookie Doesn't Exist
+else {
+  $('.theme-container').removeClass(body_color);
+}
+
+
+
+$('#normal-color').on('click', function () {
+  var normalColor= $('.theme-container').removeClass('protanopia');
+  var normalColor= $('.theme-container').removeClass('deuteranopia');
+  Cookies.set('body_color', normalColor);
+});
+
+// Get Cookie
+var body_color = Cookies.get('body_color');
+
+// Cookie Exists
+if (body_color) {
+  $('.theme-container').addClass(body_color);
+}
+// Cookie Doesn't Exist
+else {
+  $('.theme-container').removeClass(body_color);
+}
+
+
+

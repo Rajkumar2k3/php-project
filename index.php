@@ -34,7 +34,7 @@ include 'includes/db.php';
                                 <?php echo $post_content ?>
                                 </h3>
                             </a>
-                            <p class='post-meta'>Posted by <a href=''*'><?php echo $post_author ?></a> on  &rarr; <?php echo $post_date ?></p>
+                            <p class='post-meta'>Posted by <a href='*'><?php echo $post_author ?></a> on  &rarr; <?php echo $post_date ?></p>
                         </div>
                         <hr>
                     <?php } ?>
